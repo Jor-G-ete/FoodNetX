@@ -1,6 +1,6 @@
 from setuptools import setup
 
-version = "0.7"
+version = "0.1"
 
 with open("README.md", "r") as rmd:
       long_description = rmd.read()
@@ -15,12 +15,12 @@ setup(
       author_email="jlomar2005@hotmail.com",
       maintainer="Jorge Lopez Marcos",
       maintainer_email="jlomar2005@hotmail.com",
-      # url="https://github.com/Jor-G-ete/",
-      # download_url="https://github.com/Jor-G-ete/NeuroSkyPy/archive/v"+version+".tar.gz",
-      # project_urls={
-      #      "Documentation":"https://github.com/Jor-G-ete/NeuroSkyPy",
-      #      "Source Code":"https://github.com/Jor-G-ete/NeuroSkyPy/blob/master/NeuroSkyPy/NeuroSkyPy.py"
-      #},
+      url="https://github.com/Jor-G-ete/FoodNetX",
+      download_url="https://github.com/Jor-G-ete/FoodNetX/archive/v"+version+".tar.gz",
+      project_urls={
+           "Documentation":"https://github.com/Jor-G-ete/FoodNetX",
+           "Source Code":"https://github.com/Jor-G-ete/FoodNetX/blob/master/FoodNetX/database.py"
+      },
       platforms="Windows",
       keywords=["python3.7", "NeuroSky", "Graphs", "Trees"],
       long_description=long_description,
