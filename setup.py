@@ -1,6 +1,6 @@
 from setuptools import setup
 
-version = "0.2"
+version = "0.3"
 
 with open("README.md", "r") as rmd:
       long_description = rmd.read()
@@ -27,7 +27,12 @@ setup(
       long_description_content_type='text/markdown',
       install_requires=[
             'networkx',
-            'matplotlib'
+            'matplotlib',
+            'pyyaml',
+            'tensorflow',
+            'numpy',
+            'pandas',
+            'pillow'
       ],
       classifiers=[
             'Development Status :: 4 - Beta',

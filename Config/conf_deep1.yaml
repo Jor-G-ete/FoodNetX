@@ -1,0 +1,17 @@
+Data_path: '../Data/'
+Images_folder: 'assignment_imgs/'
+Train_size: 0.8
+Test_size:  0.2
+Validation_size: 0.2
+Num_channels : 3 # for color images ( 1 for grey )
+Batch_size: 100
+Learning_rate: 0.005
+Evaluation_size: 500
+Target_size: 1 # Due to we only want to recgonize if a tomatoe is present
+Generations: 500
+Eval_every: 5
+Conv1_features: 50
+Conv2_features: 100
+Max_pool_size1: 4
+Max_pool_size2: 4
+Full_connected_size: 100 # number of nodes in both of the fully connected layers.

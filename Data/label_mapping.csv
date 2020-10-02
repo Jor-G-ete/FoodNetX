@@ -1,0 +1,995 @@
+labelling_id,labelling_name_fr,labelling_name_en
+eca41ba7482963fb8c17c89adde3317e_lab,Bouteille d'eau (toutes marques),Bottle of water
+ce629fd2f8994f6629d9c279639ab219_lab,Burrito,Burrito
+539af0ef68c9d814332f605eaf559d44_lab,Club sandwich (le sandwich triangle),Club sandwich
+d9a028f3e03cffb997f02c4a2b668854_lab,Fajitas,Fajitas
+3b2ef2db1c497ce36ccac3717841e55a_lab,Galette au sarrasin (tous types),Buckwheat pancake
+834e2237fed0e4038d7f85bf4d80241a_lab,Galette au sarrasin nature,Plain buckwheat pancake
+0b8c7f05f218911cd1ca2accb9e41b3b_lab,Verre de Jus de Banane,Juice
+5130d8f168106a63e0fee58d9fdc37bx_lab,Part de pizza 4 fromages,Pizza slice 4 cheeses
+fdc43b4199ba0ce944bbf5f9fe5a4637_lab,Part de pizza calzone,Calzone pizza slice
+e8ab774481e422685e996d0baee886fa_lab,Part de pizza pepperoni,Pepperoni pizza slice
+f3a0618f1219c2acfa4523dd8d33e0cx_lab,Part de pizza royale,Royal pizza slice
+3a0ed09f1dfbaf7c1c6d78189f8590ff_lab,Part de pizza savoyarde,"""Savoyarde"" pizza slice"
+5130d8f168106a63e0fee58d9fdc37b8_lab,Pizza 4 fromages (entière),Pizza 4 cheeses
+0d0d38c777814ccc82d249ed274c73a2_lab,Pizza Calzone (entière),Pizza Calzone
+56b4cf09db26c5a5b3b80f63fdb50a88_lab,Pizza pepperoni (entière),Pepperoni Pizza
+f3a0618f1219c2acfa4523dd8d33e0cd_lab,Pizza Royale (entière),Royal pizza
+9e32236a64ef2d77993e8081535f5c6c_lab,Pizza savoyarde (entière),Savoyard pizza
+f0de52790a0c501f57945f5018c96e9c_lab,Pulled pork sandwich,Pulled pork sandwich
+627037f397648932252fd784e29b787b_lab,Quesadilla,Quesadilla
+57753eccf5c34188abe9c2367dfab459_lab,Salade César,Caesar Salad
+c4fd512774abbe73f98c23297266d988_lab,Salade composée (avec base de salade verte),Mixed salad
+f46642c827498762065ef178e436545e_lab,Salade de pâtes,Pasta salad
+930c403e0f07afcba6669d101d790f11_lab,Salade de pommes de terre,Potato salad
+d9a377eaeeaacb8b62380b22c862aa10_lab,Salade de quinoa,Salad of quinoa
+34cbc0564774c41e98f0da8e51d92498_lab,Salade grecque,Greek salad
+fbe4be96d8be00af8868cef5229930fe_lab,Salade nordique,Nordic salad
+f16997455222ae2884a515dab4b9c630_lab,Sandwich baguette (tous types de garnitures),Sandwich baguette
+4d2f4b9fa48af3a3618b2cbac02fa9bd_lab,Smoothie (tous types),Smoothie
+0cde5193ea6a31d8bd4c840840363be4_lab,Tacos,Tacos
+32d1858d300171fb8de8c431a3e44196_lab,Tartine au beurre,Toast with butter
+cffa196217d38e725b8c5bd16b26acb7_lab,Tartine beurre confiture abricot,Toast with butter apricot jam
+670521911641584239f2a4162bc9f8c0_lab,Tartine beurre confiture fruits rouges,Toast with butter strawberry jam
+cdef746d7d93b4678cbe3b8d9e35d862_lab,Tartine au miel,Toast with honey
+bff9a252fa8d34dbe8c3c8bd944986e5_lab,Tartine au Nutella,Toast with Nutella
+b09a6ca1adcebc4451effda651b7e67b_lab,Tartine Wasa (sans rien dessus),Wasa toast
+33c42dd038fe3b82cbd8fea1e1302621_lab,Verre d'eau,Glass of water
+677cc8956ea9c0424a4d0020ff8d79cd_lab,Verre d'eau gazeuse,Glass of sparkling water
+0b2662aae0e67fb20626a8062ecd2a4a_lab,Konjac,Konjac
+ddc8757eec1a015d7c819d31d80d426b_lab,Bretzel,Pretzel
+8d322a592c0f2c5dfeddb36b99ededa4_lab,Chips,Chips
+a21cc69672b6cc7c0be80116bca99d73_lab,Chips de crevette,Prawn crackers
+cf2e04c1e2ff5c45490124a1834df492_lab,Crackers (type Belin),Crackers (Belin like)
+97d5e61ae167d9ae6916d73946f1da92_lab,Nachos (Tortilla chips triangle),Nachos
+04236af8c0635e104a76de5af1057eeb_lab,Paquet de chips,Crisps
+6e93cf5bb1a607e998829136ecd97127_lab,Petits fours (tous types),Small Pastery
+3324584fa73c59b57544c122cf4e3f38_lab,Pop-corn,Pop corn
+1d36e72bdfc728b25e778df6b451656d_lab,Pringles,Pringles
+f62fe73c13880e59127148f1ff798992_lab,Accra de morue,Cod fish cake
+1ae17b23e38e5fbaea13f05ec87db476_lab,Beignet de crevette,Prawn fritter
+e23c4f295f738af3c30b91031fa36a54_lab,Beignet de mozzarella,Mozzarella stick
+4bfd5954d138296514a349753065bb2a_lab,Calamar à la romaine,Deep-fried calamari rings
+b90833efa24458f861622eab8a3e4d03_lab,Cordon bleu,Cordon bleu
+8890c8054a2f74dfcaa709d6673b5249_lab,Empanadas,Empanadas
+635b06ecddf52352aff9fd489ec40203_lab,Falafel (la boulette),Falafel
+dc3897163424d4f3f661b86f93b705d7_lab,Nuggets,Chicken tender
+eab5c6768728233e8966aa5cccab8d21_lab,Onion rings,Onion rings
+394c18483a4f369db2a2494167f48690_lab,Poisson pané,Fish sticks
+ce9519d046f1970abfc1a14d9619d142_lab,Poulet frit (type KFC),Fried chicken
+46839d6f8822e65d29d7382fb6a92444_lab,Biscuit chocolaté (type Petit Écolier),Chocolate cookie
+59527416b8febf1d8b67f24bd9216f85_lab,Pim's,Pim's
+aad300a523fa62db343d6873710e6bae_lab,Palmier (le biscuit),Palmier
+f91bd4627b3fc105b93057293c359e28_lab,Biscuit Petit Déjeuner,Breakfast biscuit
+2e26e876aac59fcda1d3c06f40466bc8_lab,Biscuit sablé (type palet breton),Shortbread
+b7b5dd496897a6d674f48d834aae7085_lab,Cigarette russe,Russian cigarette
+22d362ce9ac8e49a78294fb78720676c_lab,Galette à l'orange,Orange flavored biscuit
+48d02fc904b8b495eb00b0a0416aa22a_lab,Navette (le biscuit),French Navette
+706f10887bbeb729378c706eee126fa7_lab,Cookie,Chocolate chip cookie
+da1ffb9fe282059e80af050128b6c7ea_lab,Gaufre fourrée,Filled waffle
+3c2dfff029ca306612aa3531030d3af4_lab,Gaufrette,Neapolitan wafer
+7fccfd17e11856085620ae4540acf8f2_lab,Granola (le biscuit),Granola
+e6e83408a8209a817e380cdb8c32d99c_lab,Meringue,Meringue
+3417d06f0c2419d429590b513894b382_lab,Oreo,Oreo
+ff11301b1ec4703fe1b819af9c76184a_lab,Petit beurre LU,French Petit Beurre
+101cf17912fca83526f0bc3464c94f61_lab,Bière bouteille (toutes marques),Bottled beer
+405485c97ecd3e3777cee378804a67b2_lab,Bière pression blanche,White draught beer
+01cffe2dd45b8c031920c5c9c5c0a8a7_lab,Bière pression blonde,Blond draught beer
+65dc5374b77358d9f8e0cef5801dba2f_lab,Bière pression brune,Dark draught beer
+e585a6bdeaff2c06351a401497f21003_lab,Verre de Cidre,Cider
+11d7cb6c7d3ab837ed27f7c642bca3bb_lab,Kir royal,Kir royal
+8dc088cdcb046c51e17153ee6afcbcd6_lab,Verre de Martini,Martini
+d92b0904aa4f08f128aa8c6d27750568_lab,Verre de Mojito,Mojito
+4e3e63325fb46b3778bbad6e565753ea_lab,Bière pression monaco,"""Monaco"" draught beer"
+9079aa967aee1639e33505a2e7ceecd2_lab,Verre de Pastis,Pastis
+96f42784f3980409e1cdecbeb05276a4_lab,Blue Lagoon,Blue Lagoon
+6ba13f5bfe4cb91b4fc5f8fa304c3dbc_lab,Caïpirinha,Caïpirinha
+7e044f25452cc0e8efa26043ee44a03c_lab,Cosmopolitain,Cosmopolitain
+572af5011fd9798fcd28ce3f4633ea4a_lab,Cuba libre,Cuba libre
+21b2de5c3dc608392b7adc666a0fe39a_lab,Gin tonic,Gin tonic
+7f8b91bb582ce6a17ed573587224e7fc_lab,Margarita,Margarita
+083d440675d123c0e52eb900a19e8df7_lab,Punch planteur,Planter's punch
+d7cfc304f42ea3345d917e31041e8fa8_lab,Spritz,Spritz
+f431cbf82b080ff23133ccda8c44f56b_lab,Whisky sour,Whisky sour
+88f9f683459646e57f6c0683618b7f4d_lab,Verre de Sangria,Sangria
+458fac896d9824cda51355e3667b8f24_lab,Shot (tous types),Shot
+89b49e95b5604105c04f218f3e560380_lab,Champagne,Champagne
+35290a4bb37cdfa25a377e69228e162f_lab,Verre de Vin blanc,White wine
+d9ffdc75ecb63663dd033f91fd079623_lab,Verre de Vin rosé,Rose wine
+e9970991e41105223bfb3d17b4e56282_lab,Verre de Vin rouge,Red wine
+9e840d3376b5cf12f91c286ba5961e48_lab,Cacao en poudre,Cocoa powder
+2eacc2707139a0f80c6c717ba616af29_lab,Café Starbucks (cup blanche),Americano coffee
+c0a0799f21c9a12ceb6a4b5f4fb825f1_lab,Café au lait,Coffee with milk
+5916b717e28ee4e28e2ad540a2ab0162_lab,Café,Coffee
+95c1a5c627288e5c58c5092962997cac_lab,Cappucino,Cappucino
+d99dbc9d2fb9bdf5974627aaf99b3a2c_lab,Chocolat chaud,Hot Chocolate
+3d486f566f185b8a762968b6a49b45b9_lab,Irish Coffee,Irish Coffee
+1d7703facf02ff28fff529362108c6b8_lab,Ricoré,Ricoré
+87aacb055e7b23a5a8ba13281d34809e_lab,Thé,Tea
+cfc68fea93b46059e9b7107bc0a9483f_lab,7 Up en canette,7 Up 33cL
+b2e01900757a2af395cd25ab4aff3e3d_lab,7 Up en bouteille,7 Up 50cL
+c6e2c1eecdaf39e5c16805b2b63d098b_lab,Coca Cola Light en bouteille,Coke Light 50cL
+f4fc10639c64deaceb612daa065d0bdd_lab,Coca Cola Zero en bouteille,Coke Zero bottle 50cL
+b0631ea5c376762a856d0ef7f6b297ea_lab,Ice Tea en bouteille,Ice Tea 50cL
+c0d904c4eb0a3c3cc1e46abf84eb9a0c_lab,Ice Tea Light en bouteille,Ice Tea Light 50cL
+0cda3140697386d29b86e7f9091abf47_lab,Oasis en bouteille,Oasis 50cL
+75c120fc6f5d9b8cce7f44afaa301d9d_lab,Orangina en bouteille,Orangina 50cL
+dfa8cc78f13abf1afbac338594514b8a_lab,Pepsi en bouteille,Pepsi 50cL
+9e34211a6ae976018310f7b4b5cef550_lab,Pepsi Next en bouteille,Pepsi Next 50cL
+29e799422f52ea36198d276c6805c864_lab,Schweppes en bouteille,Tonic 50cL
+186bd58cb6ac7687819385e1efa20298_lab,Sprite en bouteille,Sprite 50cL
+49eade0078c071e4d962f6534d9aeb9d_lab,Café frappé (Iced coffee),Iced coffee
+1a2bf2cf57a1cb143b75cf2865f89759_lab,Verre de Coca Cola,Coke
+97fa8befc086f86f1e8cda422b217245_lab,Coca Cola en canette,Coke 33cL
+f0cfd41658afe0ea7b4cfa8ea94741b9_lab,Coca Cola en bouteille,Coke 50cL
+f5422c7da91b7c5116eadb745c728be3_lab,Coca Cola Light en canette,Coke Light 33cL
+ec9a1db2eaf9b4222f50fbaeded41589_lab,Coca Cola Zero en canette,Coke Zero 33cL
+9287f0f58fbfeff604f8e50ab45b7e26_lab,Eau de coco,Coconut water
+e1650a57114d94cf36e086b8291a5952_lab,Verre d'Ice Tea,Ice Tea
+166bdce3cdb6a9bb32201c8fce231637_lab,Ice Tea en canette,Ice Tea 33cL
+0bc625f8f4f749fe871e371bdafead9b_lab,Verre de Jus d'ananas,Pineapple juice
+5d5c483d361bd0ab132a728ba6fe3a8f_lab,Verre de Jus d'orange,Orange juice
+89d7c05b6e81e351bbfb1b384a0514bd_lab,Verre de Jus de carotte,Carrot juice
+87b649e0e793e0bf01026790ab8ea6fd_lab,Verre de Jus de citron,Lemon juice
+957c155af56cd2b582d7d335e63133d5_lab,Verre de Jus de cranberry,Cranberry juice
+97d313d071ea1dafe0ed8fb0bd48e68e_lab,Verre de Jus de pamplemousse,Grapefruit juice
+d97f6cd36c70c5ad5f6b5f906e4db81f_lab,Verre de Jus de pomme,Apple juice
+10ed00360aa6466bb21199b1ec7cda1b_lab,Verre de Jus de raisin,Grape juice
+513535c5382eebf51dca54b46d570fe5_lab,Verre de Jus de tomate,Tomato juice
+57a854267f9e92f313b43a516cbb8f6a_lab,Lait de coco,Coconut milk
+d49929af79e93ff191fb7495478c7fd4_lab,Verre de Limonade,Lemonade
+ba66375a78e11fcc8f0d8a9f9b848a5b_lab,Nalu,Nalu
+edbdb92a6208259c1daac921357790cd_lab,Verre de Nectar de poire,Pear nectar
+36956fb0442ce347c0161994e7dc836c_lab,Verre d'Oasis,Oasis
+33ec5d66f7cecd09ed6bcff3dc531829_lab,Oasis en canette,Oasis 33cL
+985746d01b61fc0d4172e6da0c0889f8_lab,Verre d'Orangina,Orangina
+7bad7e02c7ef0692e73aee9441a57a63_lab,Orangina en canette,Orangina 33cL
+71d1b5aa35560eb4606cb197472727e0_lab,Ice Tea Light en canette,Ice Tea Light 33cL
+1c9c0e35c27923942b7d2a069d11e2a7_lab,Pepsi en canette,Pepsi 33cL
+c0273784c83c3935fc9bd42caebda8d5_lab,Pepsi Next en canette,Pepsi Next 33cL
+cf7c303ac9ca049c47da0968f4037ee2_lab,Red Bull en canette,Red Bull 33cL
+6129c44728ff18f1a094aabc43479f85_lab,Schweppes en canette,Tonic 33cL
+89ce4c924c47ba325540b86347b35948_lab,Sprite en canette,Sprite 33cL
+64c365c1f16f010cd3dc25fc65cc38c2_lab,Verre de Red Bull,Red Bull
+c05426626da47c51ffa15740799b7479_lab,Verre de Sirop de grenadine,Squash
+15addfc2b1907ab8d4bdfc918a0580a0_lab,Avoine,Oats
+a3f04a2071055bedc6e2b298350cf9a2_lab,Barre céréale chocolatée non-emballée (type grany),Chocolate cereal bar
+828901bedd85cbe7f6ab133e3754c360_lab,Barre céréale non-emballée (type grany),Cereal bar
+8070d620798403838a06dcc8b1d71308_lab,Barre protéinée (non-emballée),Protein bar
+7983234f0b0098a789cc32515bee4fc5_lab,Céréales Lion,Lion cereals
+6f4d0deb3fe981a3c31884bc11795fc2_lab,Céréales Trésor,Trésor cereals
+b6b93a391971b304e5e4d69da1d7bde4_lab,Chocapic,Chocapic
+f11207fc6fe8eb03a9039ec57994d6d3_lab,Choco Pops,Choco Pops
+026c3aa4a7c9f55b3ca6a718aad841e3_lab,Clusters,Clusters
+643a4c3332ecae51b0621e6e8b8d6615_lab,Corn flakes,Corn flakes
+ed55b3e5a030a11bfe9952d3ddc8f8da_lab,Cruesli Original,Cruesli Orginal
+8a68153b4c29c0447bf18d6e8b6c7b18_lab,Fruity Pebbles,Fruity Pebbles
+0aab566fddbfeae3f9fa4b40d37d6bc8_lab,Oatmeal Squares,Oatmeal Squares
+4690bcfff92f9b183898360d2999ee51_lab,Smacks,Smacks
+9444433f49aecb9a3786b756da6e8183_lab,Flocons d'avoine,Oat flakes
+5c40e4e35d531c334e710895cf86e223_lab,Flocons de sarrasin,Flakes of buckwheat
+68b75bea30504848cec1eedbbcfb2cb0_lab,Miel Pops,Miel Pops
+3063d7c4a390e19416666a45f816ee7a_lab,Muesli,Muesli
+99cbb4b22acd381eb5c632e053e81ab6_lab,Porridge,Porridge
+83e510cb934e9a45790a80b60cab2f31_lab,Weetabix,Weetabix
+80a29a44eca53628026e0b9e189c7514_lab,Protéines en poudre,Protein powder
+54657e22f539b440b9f28e425fc770b1_lab,Barbe à papa,Candyfloss
+5dedda929608ef07aedda33aa2b474e5_lab,Bounty (emballé),Bounty (packed)
+9dd2216a00e3fde5d6a2a9c6afa86b03_lab,Chocolat au lait (tablette) (sans noisettes),Milk chocolate
+698a90a04a201c6babc47fef9cd0974f_lab,Chocolat au lait aux noisettes,Milk chocolate with hazelnuts
+737b9bf050d1b423f2f1633a3a737478_lab,Chocolat blanc (tablette),White chocolate
+4f6782cc967661ead6cdcd85d938bb72_lab,Chocolat noir (tablette),Dark chocolate
+0d1bf4634b1fa494961aea9e483c0c88_lab,Chocolat noir aux noisettes (tablette),Dark chocolate with hazelnuts
+c4273b919224fcfad143c268b324d6d3_lab,Bonbons acidulés (tous types),Acid candies
+7ab1427121f071753526c40e012d976c_lab,Crocodiles,Crocodiles
+f51d045165adaa343839e618ea952e2d_lab,Fraises Tagada,Fraises Tagada
+038644de6680213132600c4b391d582e_lab,Guimauve (chamallow),Marshmallow
+2c9823bee1dd8cc9cf88270f8d100c1f_lab,M&Ms,M&Ms
+671f028142280b556a85ffdd90e0a43d_lab,Mars (emballé),Mars (packed)
+b57cda90b8cf508460f3ed3863b59deb_lab,Bounty (non emballé),Bounty
+110d6482e8a4e82df4ed8d26fbdefb86_lab,Mars (non emballé),Mars
+3d1f02e73185dc27608205ef88354a58_lab,Snickers (non emballé),Snickers
+bc01cbe51367feb0e4437ebd161b0d07_lab,Twix (non emballé),Twix
+78485e99d595aa1de54eb832b86650f4_lab,Nougat,Nougat
+671b8d93f534f4601e5b4d6dbf3b90f6_lab,Nutella (seulement si pas en tartine),Nutella
+09ab47e658713dbfba5f762a1735f50d_lab,Pâte de fruits,Fruit bar
+02abcba0844968ea9039d4a79c7f4bd2_lab,Pomme d'amour,Candy apple
+6c4932631b053b5ba76d2ae4f7bd7301_lab,Réglisse,Liquorice
+4d26cbce7bc6ef7b4635629d85da2151_lab,S'more,S'more
+111bb38e340cd20e86f3510862fdd74e_lab,Skittles,Skittles
+54850b3924949eeef3d409b076a9fd62_lab,Snickers (emballé),Snickers (packed)
+dc8254f1cf0e3770662f9b69f6df88f6_lab,Sucette,Lollipop
+95b676a4d07bdde81bca8a4a6d09ae45_lab,Twix (emballé),Twix (packed)
+950384deefb8b4c88f2b105fa41e6ffe_lab,Bobun (plat entier),Bobun
+cb7d5858ace9ddb35e864470c060e611_lab,Boeuf aux oignons,Beef with oignons
+86dbbc9131b77526e0c5300b07a65f95_lab,Canard laqué,Peking duck
+aabaad59df78cf4c5c877493d1b430d0_lab,Curry de Crevettes,Prawn curry
+39166b95dc06c7d4d91b3d9d41469a26_lab,Gyoza,Gyoza
+abebf60f3538cd193d8ed8db98bfedb7_lab,Naan au fromage,Cheese Naan
+8c353756202da12422bd88865f9eb431_lab,Nem,Spring roll (fried)
+61e923ce94e7532f7522fd0b498deaf5_lab,Porc au caramel,Pork with caramel sauce
+1f6db1bc76a6e5627ac8094d371696fa_lab,Poulet au curry,Curry chicken
+3d8682f2f5444464de089e6fdafd360c_lab,Poulet korma,Chicken korma
+cd949941aaf7ebbd9ddbe934c1f48b9c_lab,Poulet massala,Massala chicken
+70b1e43602c8f6404ebf0a6546fb0ab8_lab,Poulet thaï,Thai chicken
+0f02d6a81149355d88ae929e3e12a8b5_lab,Raviolis vapeur (asiatiques tous types),Dumpling
+da82c7d580f99d38c7f9fa217b064b39_lab,Rouleau de printemps,Spring roll
+6cf302f7f705971f3e9a26d977c4cfbf_lab,Samoussas,Samosas
+ef1911d3962f18fbaf22cac1ac72f0e0_lab,Chirashi (plat entier),Chirashi
+35c01240df604f70e38ad598594df93d_lab,Maki california saumon,Maki california salmon
+5a8a277b2397b292cd0e6328af8e91ff_lab,Maki california thon,Maki california tuna
+a300736da157d06fdb26117a0e637c5e_lab,Maki saumon,Maki salmon
+56b43f9b188c5840bffd183995b6e44b_lab,Maki thon,Maki tuna
+d14e765808206e0655819c435018dc2c_lab,Sashimi daurade,Sea Bream sashimi
+03bef00303ba81f5f440d2f1a44a75bf_lab,Sashimi saumon,Salmon sashimi
+7be2bf95dcd432c5071c4cb71fa13344_lab,Sashimi thon,Tuna sashimi
+018c325f99318af5bc6f542e4586c478_lab,Sushi saumon,Salmon sushi
+b3a218d1c37484c7736fac3d4681902a_lab,Sushi thon,Tuna sushi
+a269afa4b57691acc8f12aee3f982c7d_lab,Tekoyaki,Tekoyaki
+8656cc8ebb46e96ab90ad17008d9d870_lab,Banana split,Banana split
+04a7499b766ac3ea8bb7f96e6c1a10f5_lab,Crème anglaise,Custard cream
+e407d94fc97e730de8e2df74ab7c50a3_lab,Crème brûlée,Crème brulee
+d6fb12a02ef23cd1147ded42036f42eb_lab,Crème caramel,Crème caramel
+cdd664cfc4f1944c735372a716c893ff_lab,Crème de marron,Chestnut cream
+d5bec3fb685e1437e4064735b2091aa0_lab,Esquimau au chocolat (type Magnum),Chocolate Frozen Eskimo
+c625ca455bb9aea8463f747152f5376b_lab,Esquimau au chocolat blanc (type Magnum),White chocolate frozen eskimo
+524794e088e7be07a00ec408cb775f6f_lab,Glace à l'italienne,Ice Cream Cone
+3fef60ffbf34165ad84558cca5c7fd21_lab,Glace au yaourt,Yogurt ice cream
+e977289509127a44c40c2ec55186f9dc_lab,Glace café,Ice cream
+cc8e56c775fae9d0e956556578cf7c57_lab,Glace chocolat,Chocolate ice cream
+4cdc41e3514521cc124bdafd5b633c28_lab,Glace fraise,Strawberry ice cream
+6802ca3b35858edae804a94fc1399940_lab,Glace framboise,Raspberry ice cream
+f6675d80be083cf445654cd0df747371_lab,Glace noisette,Hazelnut ice cream
+fa18765aac90c3a102ae8e2d3c883473_lab,Glace pistache,Pistachio ice cream
+506bf2b48aba28c9f2b5f0d080a53001_lab,Glace vanille,Vanilla ice cream
+6a72883ea76403d44a7b811faab3cd76_lab,Ile flottante,Floating Island
+9ade493724ad85f631b06a4a2b7af3e3_lab,Liégeois café (pot),Liegeois coffee flavoured
+b929eabaf7715fdda32837489bfde91a_lab,Liégeois chocolat (en pot),Chocolate liegeois
+a11c4b8067a0f920417b8fcc77dbb51f_lab,Milk-shake banane,Banana milk-shake
+df1c3f5dfdea5d8246ac40b78b260dd5_lab,Milk-shake vanille,Vanilla milk-shake
+08dfcd58ef8a90a6e5986f8a21ad5fd0_lab,Milk-shake fraise,Strawberry milk-shake
+5f537b419e5a880b82a79536ef7f922b_lab,Mousse à la crème de marrons (en pot de yaourt type ),Chestnut cream mousse
+941accd853e5f9f823ee3eadaf8a07c5_lab,Mousse au chocolat,Chocolate mousse
+f5a48120242542ea55b3fe305eb3d41f_lab,Pain perdu,French toast
+db7388a5dfd159646c296f0f4ded562d_lab,Panna cotta,Panna cotta
+7eaa3005266e2cdea63055d0d51fbb6b_lab,Pêche Melba,Peach Melba
+6d5c8d00226a6d4d5bb668154dbdb5a2_lab,Poire belle Hélène,Poire belle Helene
+21663fb3e3124593a96e77bb8d26374d_lab,Profiterole,Cream Puff
+58fa201bb26a52a25d36b9c94de67ccb_lab,Religieuse (individuel tous parfums),Eclair
+84496bf8f6e2ca482064ec50ef255fcf_lab,Riz au lait,Rice pudding
+d5741d6711bc0f1f124f49478957cd46_lab,Semoule au lait,Semolina pudding
+44804d7260cc75baa8d472f962a2cf16_lab,Sorbet citron,Lemon sorbet
+839ab8d3b16e185860afe65666693a96_lab,Tiramisu,Tiramisu
+123230401da216809f3ae18313059b9a_lab,Baba au rhum,Rum baba
+20b1d2dde4476e87fa95196c39d5666f_lab,Baklava,Baklava
+4e3f594011825c8f5ee10ae52376f51a_lab,Bowl cake,Bowl cake
+71131e4febee7396d4cd129be75a0473_lab,Brownie,Brownie
+ea96a92479944204faa91e57c35b2c6e_lab,Bûche de Noël (tous types),Christmas Cake
+d9430b73f1dbd1563161577194555a91_lab,Cake aux fruits,Fruit cake
+063896f05ba0c944fbe62d5bde4658de_lab,Canelé,Canelé
+6b8a984c44b155469eb9ee8f52fe60e9_lab,Cannoli,Cannoli
+aa9a485dc85352d3a2ce98aac35ea471_lab,Gateau aux carottes,Carot cake
+73ccf8d036429eb898b06c55cf33e896_lab,Charlotte aux fruits,Fruit Charlotte cake
+5885290a0cf61bf5cd559f26e92caf5c_lab,Cheese-cake,Cheese-cake
+159bc57852a5b17124ddbde609157bb9_lab,Chou à la crème,Cream puff
+4c4c9ac42ff2a158810987823301e7a4_lab,Churros,Churros
+b48c2c5393c04dec40391788dcb5440c_lab,Clafoutis,Flaugnard
+167e1c6a535cedba359d8c1d2d847c6a_lab,Crêpe au caramel,Crepe with caramel
+1f8b37c7b7b2fcacb1e59045611effb9_lab,Crêpe au nutella,Crepe with nutella
+9a8130ce7b99080ed40c5eb7c1c0f5aa_lab,Crêpe au sucre,Crepe with sugar
+7b1ad1498d45a44f49b5fd3c36ff660c_lab,Crumble aux fruits rouges,Red fruit crumble
+4a47bedbf12e0042ee0f2557045df471_lab,Crumble aux pommes,Apple crumble
+1a30609f1a181305f4106b1fe487f93d_lab,Cupcake,Cupcake
+2f868582b91ac7c9f73efd7f62d533ea_lab,Éclair au café,Coffee eclair
+44ab424e8a53c45b971196152fdc1672_lab,Éclair au chocolat,Chocolate eclair
+2a4a5c35359755327d162f31f7d540e5_lab,Far breton,Far breton
+ae6e1bf370c08d23a00d8695693af3fb_lab,Flan,Pudding
+1fd36b5f55b4b6679e4698da94c587a7_lab,Flanby (en pot),Flanby
+25e900ae2593ec0b7aad4020a0825cf3_lab,Flanby (retourné dans l'assiette),Flanby (in plate)
+7455b393fe8cc2cbf52ca9493e888e4a_lab,Part de fraisier,Strawberry cake
+f132a6170a9ad7d0715b8938323d89d6_lab,Part de Galette des rois,King Cake
+c4a24f6aef3f5fc60c213f49e7b19523_lab,Part de Gateau au chocolat,Chocolate cake
+440dc471e8e5a839a83402536dd2c535_lab,Part de Gateau au fromage blanc,Soft white cheese cake
+0a4cbaa70ae054b97f97f51c78c4b32d_lab,Gaufre au chocolat,Waffle with chocolate
+11a326b159ba902e1ddef479e2e260a9_lab,Gaufre au sucre,Waffle with sugar
+6c7441eac97bd92220e68b65b382d0b7_lab,Gaufre liégeoise,Liège waffle
+f09e20db95ec9b04a3fdbfcd46f915a3_lab,Kanelbulle,Cinnamon roll
+f9b7edc63cd7164d85860188bbcff500_lab,Macaron (tous parfums),Macaron
+f08fcde009a5697190d30b58bcf21ffd_lab,Madeleine,Madeleine
+11990d6b8f375954bd3e475b8bed3f3b_lab,Mille-feuille (individuel),Napoleon
+ce26f7f687cc61a5e4d9b7c1bcef16c9_lab,Moelleux au chocolat,Chocolate Lava Cake
+80ecc8ac65eaa65902b471eab7eeadd6_lab,Opéra (la patisserie individuelle),Opera
+3fba3faed60ff9a42dfef935e3b7f77f_lab,Pain d'épices,Ginger bread
+fc5930a6007fef9b7d998f205417e671_lab,Pancake,Pancake
+8dad77a9fe24adcdf7fa21487183a8a9_lab,Paris-Brest (individuel),Paris-Brest
+7309758118a9c8a1021df3282f2216b4_lab,Part de Quatre-quarts,Pound cake
+044253e2688b01a82929d37e473805bd_lab,Part de gateau red velvet,Piece of red velvet cake
+85ddceacbcd3fc2fca2999726ae87944_lab,Rouleau suisse,Swiss roll
+444fdaecdd1dd1a5c984cbc5358081ea_lab,Part de Tarte à la rhubarbe,Rhubarb pie
+4ad86f0025e3218300d4945bfd4558a6_lab,Tartelette à la rhubarbe,Individual Rhubarb pie
+bb3c08e3a26c70479a1c1d59fe804843_lab,Part de Tarte au citron,Lemon Tart
+1da18584c945c548c4fe37560783d196_lab,Tartelette au citron,Individual Lemon Tart
+adc5d0037f9c4e1aad9f7a2db44fabe6_lab,Part de Tarte aux abricots,Apricot tart
+163d47ee230a4e583ebc0968639cdf38_lab,Tartelette aux abricots,Individual Apricot tart
+8142f68d0f9e460a115ddec9b57e25d6_lab,Part de Tarte aux fraises,Strawberry tart
+86b91750a24df9b4cda5281353252cc0_lab,Tartelette aux fraises,Individual Strawberry tart
+e7dbed6087312c3495e50418d7e75feb_lab,Part de Tarte aux framboises,Raspberry pie
+2c3ece99020d119c216dec9a3945c004_lab,Tartelette aux framboises,Individual Raspberry pie
+54c46ce829b62cf89fbc29ea1ba9ca6c_lab,Part de Tarte aux fruits rouges,Redberries tart
+0796a8b21963ecdd54459ca49ff0b33f_lab,Tartelette aux fruits rouges,Individual Redberries tart
+f08db9fb3dd313309b409bf3757bdf9e_lab,Part de Tarte aux noix,Walnut pie
+f94ad5d7c5744366df2531218571617f_lab,Tartelette aux noix,Individual Walnut pie
+d748b4c81975df4db1bf6b7d00994092_lab,"Part de tarte au pomme ""américaine"" (double pate)",Piece of apple pie (double crust)
+cbefd14a56ecc74c7a77fb8a64a2cce0_lab,Part de Tarte aux pommes,Apple tart
+fdb535ed0294db797fd2bb218611dbfe_lab,Tartelette aux pommes,Individual Apple tart
+560eec9a0d8d1a169aa1e67612d81cb6_lab,Tapioca,Tapioca
+bf5ab14b87163e63f4124049a373b6ca_lab,Abricot,Apricot
+04f787b0061c22c52d9e7004820c42b9_lab,Acai bowl,Acai bowl
+3e2f08130f5b6c37e1fb94aa8ea95fbf_lab,Ananas (en dés / morceaux),Pineapple
+9e037d598c6ca18c1ba6227faed9921a_lab,Ananas (en rondelles),Pineapple
+24fe6681e0a19f6c15bce08098913046_lab,Ananas entier,Pineapple
+f6ae02c12ed752bcdf92060492cf6572_lab,Banane (entière avec peau),Banana
+61232850e7d14a4c564f2077122abe24_lab,Banane en rondelle,Sliced banana
+371831c23746ff5a273d5ff773212fcb_lab,Cassis,Blackcurrant
+740a946c09ba68dde123cba77a6fec94_lab,Cerises,Cherries
+6d3048d77807179d0af65ea79e68b516_lab,Tranche de citron jaune,Lemon
+eaebca162de411560989e99ff4345c08_lab,Citron jaune entier (avec peau),Whole lemon
+15cd7bb34a2797bbf3a2976c4e4b79f9_lab,Tranche de citron vert,Lime
+bb6dae2735176a0b5d5e475dce01dcfd_lab,Citron vert entier (avec peau),Whole lemon
+c46d40d992fdda157209317a501b1b87_lab,Clémentine (avec peau),Clementine
+6f5188d848cbbcc09145e58277c0e072_lab,Coing,Quince
+d63dd2c66df54616267d4029456ec9b0_lab,Compote (tous types pas en pot),Compote
+cf9dbfbe65dd071a9d49ea31264d3699_lab,Compote en pot,Compote (prepacked)
+16862d6e00d1a31d3e2259254ed0a1e0_lab,Figues entières,Figs
+a85bd3b024495a42ff1326a7e03bad1c_lab,Figues ouvertes (coupées en deux),Figs cut
+1dab88d7dea895853288e2e047fedfa5_lab,Fraises,Strawberry
+e05515beed27eb1e0a32fc1bd82b6956_lab,Framboise,Raspberry
+ef3a67ecf96df3dac69f2fd48d68b481_lab,Fruit de la passion (ouvert coupé en deux),Passion fruit
+b8336c2f99537a3ac82274d3dcc8f949_lab,Fruit de la passion (entier),Passion fruit whole
+6fa8fc78aaa26b918755f16a4c397731_lab,Fruits au sirop,Fruit in Syrup
+807b47c12a37dba41427e712885bfbee_lab,Grains de grenade,Pomegranate
+dbe10ed96576927f264b5575e8e5b846_lab,Grenade,Pomegranate
+33f8402b5fb001d45a284cce284e2dfa_lab,Grenade ouverte (coupée en deux),Pomegranate
+dd6be57d18e153f89a4a706b79045b78_lab,Groseilles,Red currant
+23c053edf3e38589eed145883b72a70d_lab,Kaki,Persimmon
+b6ef9705b1e58b643edc23e7f81318ed_lab,Kiwi entier avec peau,Kiwi whole
+4696be70484d0a332c04a467b0324080_lab,Kiwi épluché,Kiwi peeled
+200a86f21dbecb8af2278387315d91b0_lab,Litchis (epluchés),Lychee
+f818f24448505ef658864a08b5576de0_lab,Litchis (avec coquille),Lychee
+514c212d18e7d8afbd9fabe37d3fa1a3_lab,Mangue (la chaire),Mango
+6d6b81b12542249bf773130d5311bb16_lab,Mangue (entière),Mango whole
+4c3c226d7c261e923adb59ad47f1a9d0_lab,"Melon (orange, en dé / morceaux)",Melon
+bc9134c3f2ba17f3508602afbe11b988_lab,"Melon (orange, en quartier)",Melon
+3da594b83cb349f3ba5da8b8255bc399_lab,Melon (entier avec peau),Melon
+99a9a25280a6ddedab928b9038937f48_lab,Melon jaune (en dé / morceaux),Yellow melon
+64cc2a1cb221dc784c9136209625aac0_lab,Melon jaune (en quartie),Yellow melon
+2023b1cb732ffd1e15f3aa439b74a6f1_lab,Melon jaune (entier avec peau),Yellow melon
+1e2f5ad54d1780dc982cbef005b5bfa1_lab,Mirabelles,Plum
+199fd7aaa8e77327c5547c20ac6485a3_lab,Mûres,Blackberries
+954f251f60caec4be7004669aeeb73dc_lab,Myrtilles,Blueberries
+bdffbfe8dc3e79f9dc797a9e781dccbc_lab,Nectarine (entière avec peau),Nectarine
+909cea0c97058cfe2e3ea8d675cb08e1_lab,Orange (avec peau),Orange
+c75d5575edb1ed68477a7c873a779988_lab,Pamplemousse (coupé en deux),Grapefruit
+75d51e6d338c7c5609054f44f16e9ce7_lab,Pamplemousse entier,Grapefruit whole
+0cfff18b69eacfe82455e9059d5ef4c6_lab,Papaye (la chair seule),Papaya
+04666c4e59e75b977cf81dcd54db246c_lab,Papaye entière,Papaya whole
+8333c1b29050f9dd1c6ed587bd1c0b86_lab,Papaye ouverte (coupée en deux),Papaya flesh
+4f1976d22b95156e1adf3d3ead076ef5_lab,Pastèque (en dés / morceaux),Watermelon
+799620f174bff6f40afefb3867ebace5_lab,Pastèque (en quartier),Watermelon
+bceda0cc46ee5ede8a74866e35e3d15b_lab,Pastèque (entière avec peau),Watermelon
+1af75c577efb0c8376543be424a5f24b_lab,Pêche (entière avec peau),Peach
+dc506e381acd9bcc2174cd1a39c2a602_lab,Pêche en quartiers,Sliced peach
+3d940933396af352cde608434cd85b0a_lab,Perles de mangue,Mango beads
+c298d146c5272a48616c87b104d6fed9_lab,Poire,Pear
+0c0ac6867d4a482d531234a93f0c9df9_lab,Poire en quartiers,Sliced pear
+9819d6ca0ec52561b432572b2217660c_lab,Pom'Potes,Apple Sauce Pouch
+1c8bf755c5d225d28d29f9ae2736a964_lab,Pomme entière,Apple
+2715675f9548e0d18173af1ebdc38925_lab,Pomme en quartiers,Apple sliced
+e4fa1bfd545d32f5387726601e091f0b_lab,Prunes,Plum
+191674566dccb84234f485cb4be44cfe_lab,Quartiers d'orange,Orange wedge
+b296b87107b4b8f5815402662adf06c5_lab,Quartiers de clémentine,Clementine wedges
+d7b75ef5dbfe13f6ca8a51ef8a4b521d_lab,Raisin blanc,White grapefruit
+b7db8b4e5b697d7930ce0a5fcf265020_lab,Raisin noir,Black grapefruit
+8b9601052939ff52de7156897f1897a9_lab,Rhubarbe,Rhubarb
+aad9642b59395a4f1779743d7865baf0_lab,Salade d'oranges,Orange salad
+83a0ec4e0fa97c2e9a5dbc322a5907ac_lab,Salade de fruits,Fruit salad
+d77da9023b09e8877e16fb776e3deec4_lab,Araignée de mer,Spider crab
+4af5e8988e6a76b462f5c8b7800aee57_lab,Bigorneau (avec coquille),Periwinkle Snail
+38d41d6dd2152dce0de26f92f6bd4a59_lab,Bulot (avec coquille),Welk Snail
+48f3ef88f201e83748eee7f29cecff45_lab,Praire (avec coquille),Clams
+2a9d742254fe10180824eaf769b6b1f3_lab,Calamar (sans friture),Calamari
+6b831037d98a9f4e320af9c836d255b1_lab,Coquille Saint-Jacques (la noix),Shellfish
+d70865b482449dcc3852a91760672671_lab,Pétoncles,Scallop
+d2e346c325a1660c1c327d9266f27463_lab,Crabe (avec sa coquille),Crab
+0741791526045199670e7ef45c21531d_lab,Crevettes grises,Brown shrimp
+90461a0770e9b17e359079adb858a9dd_lab,Crevettes roses (décortiquées),Prawn
+85ad67bb66a3a108ea3421dbeefbf22e_lab,Crevettes roses (avec coquille),Prawn (in shell)
+e9ac72e01d2bcdc33b4a5584218fef17_lab,Ecrevisse,Crayfish
+7246426daa5e1555f0a63fc66a068cf7_lab,Emietté de crabe,Crab cake
+0d95b9af4d687956fd55dd7fa06ab74a_lab,Escargot (avec coquille),Snail
+17d0fb23cbeb3285a429e05ad8f02051_lab,Escargot (sans coquille),Snail
+94d7adc0c72dc20e440263e45d5be6a4_lab,Gambas,Prawns
+3b706b5736fe65e6f604d202bdc9dd35_lab,Gâteau de crabe,Crab cake
+44bea070ea07a89660daa3ec032f5ec5_lab,Homard,Lobster
+af0ab6d072cd0af9eb171c7ac289524c_lab,Huître,Oyster
+cbd1ecc5f10f810f8cc06dba3649854b_lab,Langouste,Crawfish
+16c4a0683aac448956665fb9e51dfcd1_lab,Langoustine (décortiquée),Scampi
+f50685e47ebaa2f4fae58771cea14d56_lab,Langoustine (avec coquille),Scampi (with shell)
+9bd2d4287f5ce5d931d6d0d3c9131135_lab,Moule (avec coquille),Mussel
+0273de883cefdc858813d7acc22d8bca_lab,Moule (pas dans sa coquille),Mussel
+bbae5bc7ddfb3af4b77be249da5e50ed_lab,Poulpe,Octopus
+2ca29d54a0a0319eb395ed3954b35f16_lab,Seiche,Cuttlefish
+c84c680d93d48910ae378fc1113ac92c_lab,Abricots secs,Dried apricots
+6e8f86500fa92162460993ada8c22a15_lab,Amandes,Almonds
+a2a94732622215223002ef1f120b89c7_lab,Amandes effilées,Shaved Almonds
+5fe45feb7f625910e8962417177b6f30_lab,Baies de goji,Goji berries
+0de1a40c2ffbc0e1a3ba36d0c16f910e_lab,Bananes séchées,Dried bananas
+6371b91f8a35beb8bb8d6c5635100903_lab,Beurre de cacahuète,Peanut butter
+6129d6a7bc504041d040c531ee941d9f_lab,Cacahuètes,Peanuts
+dc6fb7b984a3a5bc497808be33fdbeaf_lab,Châtaignes grillées,Roasted chestnuts
+3eeb6f4c51590fb82095db3bbc237f0a_lab,Cranberry,Cranberries
+2edc43eff276542989bf76ee82c8da34_lab,Dattes séchées,Dried dates
+4297911e0c4b5090425a2c3ad81641f6_lab,Figues séchées,Dried Figs
+58e5cbe8f62390f0dce1a1c0a58968f0_lab,Mélanges de fruits secs,Dried fruit mixtures
+a2c70dc87b1c28d430690967f3a024df_lab,Graines de chia,Chia seeds
+f491c651d946a897894544a89daf6083_lab,Graines de lin,Flaxseed
+85dac7c05b3bf0d9a173b4c6965d4bed_lab,Graines de sésame,Sesame seeds
+5c603551933e2623b394b39a834750aa_lab,Graines de tournesol,Sunflower seed
+cb279e1badc3ac0b301f70e75678edcf_lab,Mélange de noix,Mixed nuts
+fa7a8956f44068c5620f2f59dfa16c0d_lab,Noisettes,Hazelnuts
+cf9d0b702268a94a2d50d5efc686f4c5_lab,Noix (sans coquille),Nuts (without shell)
+bed0c9cf9aad0ab416b1ec1f360b7046_lab,Noix (avec coquille),Nuts (in shell)
+f46220bc8cc0155c22b842ed04e10835_lab,Noix de cajou,Cashew
+10cd57fb3bb93944f76910ae825ee22e_lab,Noix de coco (entière),Coconut
+4791f7daf0085a530f2963d7685bab7c_lab,Noix de coco en copeaux,Coconut shavings
+139bb361faa5f42e40e33d22a585e0c2_lab,Noix de coco ouverte (coupée en deux),Coconut open
+635bb58023c7f90f883d3799e7018b64_lab,Noix de macadamia,Macadamia nuts
+37cc558ece378bb32179eac925ac28f7_lab,Noix de pécan,Pecan nut
+9050f9cb4fd1f2d16f272335f0ff19bf_lab,Pignons de pin,Pine nuts
+42b0dd86afaa1730ed1ed8c7aee03f40_lab,Pistaches,Pistachio
+052459429bcb4a536cccf65829b89638_lab,Pruneaux,Prunes
+d56979900c64e972095df648cde6908b_lab,Raisins secs,Dried raisins
+cbba959adff283cacd22cca26f9b574a_lab,Tartinade d'amandes,Almond spread
+cfe99cf9cafca0376ca6f92696283038_lab,Enchiladas,Enchiladas
+96f9cdb29ca93529edcd3e144a20dbfb_lab,Gratin d'endives et jambon,Endive and ham gratinée
+fe5e326dcf3d5b8a85e9be0190852206_lab,Gratin de chou-fleur,Cauliflower gratin
+5c8b6c5d920b688363a57d6e1b7a89b7_lab,Gratin de légumes,Vegetable gratin
+51d86d6f89404b4a9860658f7fde1c6f_lab,Légumes au four,Roasted vegetables
+81b5778ca3aebadd653ca31448fbf269_lab,Moussaka,Moussaka
+3cd474b44674ce6cf5fb63bd400955fe_lab,Tian de légumes,Vegetable tian
+b34f957ae2c7e1cf0d97ff5fd10519ff_lab,Cannelloni à la viande,Stuffed Pasta (Meat)
+b244d58165fca8b87c703d8bb89ccd2f_lab,Gratin de pâtes,Pasta Gratin
+c1f7dce131c624f16c227e779a2d3c1e_lab,Lasagnes à la bolognaise,Lasagna (bolognaise)
+93b7626e1cd06a154c3f5b87eed8f6c6_lab,Lasagnes ricotta épinards,Ricotta and spinach lasagna
+4e46e4f18f1d1909fb08c565f6f30561_lab,Macaroni au fromage (Mac and cheese),Macaroni and cheese
+1b0db719ae3046da36fef4540d1b634e_lab,Brandade de morue,Brandade
+7e020226bea5c8ef59bc1e736e2e85c8_lab,Gratin dauphinois,Scalloped Potatoes
+9799e1ba5005d2b45c248b4804a689e2_lab,Hachis Parmentier,Shepperd's pie
+3bd22be2e3370d621e519edad918e2a2_lab,Tartiflette,Tartiflette
+1c12443836d83c161c8cd7ce1b709b62_lab,Ail,Garlic
+a216d509eee6fe2e863fff69b8a18085_lab,Basilic,Basil
+3023d0ee554c19a26477444bd42fb3c3_lab,Cerfeuil,French Parsley
+e88e27f0f97be80716ea59802ce5cbc2_lab,Ciboulette,Chive
+b0e87a2980cb7e53c3659f18af39bc08_lab,Échalote,Shallot
+76b64e1dd4665a5be5cde1f1512fc3c6_lab,Fleur de sel,Salt flakes
+56bde6a5f516f69ae5d570b461177e66_lab,Gingembre,Ginger
+4fad6906672b08414aafc18d382b0958_lab,Menthe,Mint
+20e4fea177952af0a8d540aebc49c87d_lab,Oignons crus (émincés),Raw Onions
+945aa1bd8571b4e965659f90dc8feb2c_lab,Oignons grillés,Grilled onions
+251e6329034292e61b1f522ee58261bf_lab,Persil,Parsley
+f25d6460f39e84d89286e8f7eb694e48_lab,Sel,Salt
+2f3f8f86a6bb38a82d1c88430e96e78f_lab,Artichaut (entier),Artichoke
+6555aa5a5127415ebd2d142480343a1f_lab,Asperges blanches,White asparguses
+80e384fda1e436e9acf289b0a8dbd122_lab,Asperges vertes,Green asparguses
+a4d4aef105294ce2e081922670615c9b_lab,Aubergines,Eggplants
+217db25def7621cf7d9c0d2b75539066_lab,Avocat (la chaire),Avocado
+83f898b840d7c5bae7370190eb544c6d_lab,Avocat entier,Whole avocado
+55229613628cb726a02a19f6c9507ebe_lab,Blettes,Chard
+e6c70ed11695933a413f1f32871e7c1a_lab,Brocoli,Broccoli
+e3d1a163d6074ecd232c51d448e76773_lab,Caviar d'aubergines,Eggplant caviar
+e1ded76df5362fb41b54528d42cad151_lab,Céléri branche,Celery
+b5e85206562e08b94f579b24790aaf6e_lab,Céléri branche en salade,Celery salad
+e8ed7c542d77981c52bd5b73243f5c9a_lab,Champignons (tous types),Mushrooms
+958cf57702c750d0b8127134a8915a45_lab,Chou blanc cuit,Cooked white cabbage
+6aa2018f720b0406ce37068401a3c281_lab,Salade de choux blanc,White cabbage salad
+987741992477342896407cf0a10f8a88_lab,Chou Kale,Kale
+412776590d14a0015d26c866d09d1904_lab,Chou rouge (en salade),Red cabbage
+53ea8b53a74c0235e41c1e87341fcc8a_lab,Chou rouge cuit,Cooked red cabbage
+7ba65678626bfd4a47bf36733e19ae28_lab,Chou vert,Cabbage
+c04e31c728f7f9b3e25e81743447cc98_lab,Chou-fleur (cuit),Cauliflower
+b314b3710f2ef74fef7514d67c8d4ade_lab,Chou-fleur cru d'apéritif,Raw Cauliflower
+bb59a6867ab1f3ba1f5ee3f9910dda28_lab,Choux de Bruxelles,Brusselsprouts
+f285298ac649806fb5cabf7a56124edb_lab,Coeur d'artichaut,Artichoke heart
+85271aa4433b49876b67e3a1e64f9668_lab,Cœurs de palmier,Palm heart
+adcabc42d32085293d5bef3182119d1a_lab,Coleslaw,Coleslaw
+807c6457c23082f3b0a260984df7f8c5_lab,Concombres (en rondelle),Cucumber
+fb81b7060cf8e8fad65c5dcb1c967f8c_lab,Concombre entier,Cucumber whole
+415ef4dd44aa7189bbafbcba3cc2bb60_lab,Courgettes (entières crues),Zucchinis
+a245519b6f9bbdc74592e856d2194c0f_lab,Courgettes (cuites),Zucchinis
+503e6646fbbd797320050ce8eee11769_lab,Endives (cuites braisées pas en salade),Endives
+ba269cf41bba4ad76ea67721bd444d52_lab,Épinards,Spinach
+913311acc0e460932992ab7dc7498641_lab,Fenouil (cuit),Fennel
+13a45dcf2a4922bec4b4a1c6506f37f1_lab,Fond d'Artichaut,Artichoke heart
+e11c1bef9791e30649cc8a5f30a8c8da_lab,Macédoine de légumes,Diced mixed vegetables
+ede2f3db84be6202702395552d40ccbe_lab,Maïs (en grain pas en épi),Corn
+45043fc1226a6fec1f2173cb83476a12_lab,Maïs (l'épi entier),Whole corn
+32a7639d95e4ac5fae994c3478cef011_lab,Maïs nain,Chinese corn
+1ad71a9eadc51cd520dce1fa8ef98988_lab,Mélange de légumes verts,Mix of green vegetables
+1c94dd8085264d113116251370975e1d_lab,Piment,Chili pepper
+8242c144453a13214fb1940381812f02_lab,Poêlée de Légumes,Mixed fried veggies
+66eeb3de45221f3f0d15977884a0f0d6_lab,Poireaux (cuit en fondue),Leeks
+64fd9149a895fce074da5a84a7a62255_lab,Poivrons crus (coupés),Sliced raw peppers
+7d4c294997db4171d8dbd6c97b34e48a_lab,Poivrons entiers crus,Raw peppers
+ceb9a2ae90dd1a14abf8b654f38231eb_lab,Poivrons grillés,Grilled peppers
+dd45faccaa9422b078ee5172dec28a8e_lab,Potiron (cuit coupé),Pumpkin
+21abeaf1c33aaacb701da0db4a4f07a2_lab,Pousses de bambou,Bamboo shoots
+66336d8648bf48cbd7bb3742a0b7869d_lab,Purée de céleri,Celery root mash
+0f691b9ce7435b14a6c9c63d5f289228_lab,Tofu (en cube),Tofu
+939030726152341c154ba28629341da6_lab,Tomates (coupées),Tomatoes
+9f2c42629209f86b2d5fbe152eb54803_lab,Tomates cerises,Cherry tomatoes
+4e884654d97603dedb7e3bd8991335d0_lab,Tomates (entières),Tomatoe whole
+73649868b478fff77ef728e35459d2ed_lab,Aubergine farcie,Stuffed eggplant
+916813df7539e517846ffb17d57cba4a_lab,Cassoulet (plat entier),Cassoulet
+f6d529c09282b71fbc044ab7532730d6_lab,Choucroute (seulement le chou),Sauerkraut
+d4b8115bd910e1d3a4ecf621fbc63d6f_lab,Choucroute garnie (plat complet),Alsatian-style sauerkraut
+a0f0b2e8bccc518357970ce0594d0512_lab,Courgette farcie,Stuffed Zucchini
+b8c2eeb2e8567a87daa8d7367972eb93_lab,Flan de courgettes,Flan of zucchini
+4f6906c4b2e69681c6675e107bade709_lab,Julienne de légumes,Vegetable julienne
+b23ed2914549237036c01f266bdf16aa_lab,Ratatouille,Vegetable Stew
+2246955c364af2a6de15d2b1fd55052e_lab,Steak de soja,Soy steak
+48360e355a6d1353a2b35c06d8801f7e_lab,Terrine de légumes,Vegetable terrine
+f3c12eecb7abc706b032ad9a387e6f01_lab,Tomate à la provençale,Stuffed Tomatoes
+e306505b150e000f5e1b4f377ad688a0_lab,Tomate farcie,Stuffed tomatoes
+16596780a244b4e967020c3e7dec2241_lab,Edamame,Edamame
+317aa5cc3dfd8fdff99970efec8f2ea9_lab,Fèves,Broad beans
+4a81b895a8f5db05fd3d4e03a36f5ce9_lab,Flageolet,green beans
+20f4e9905501457ca882931123ea66f4_lab,Haricot plat,Flat beans
+da51dbb37ab1550c9b85d328c297721b_lab,Haricots beurres,Wax beans
+9f977a65f4d66c04cf9c71ae0bacddc6_lab,Haricots blancs,White beans
+ccfdc438466bbf7c4f671983219d0d1a_lab,Haricots mungo,Mung beans
+e712776dd57e32f99bbf85cdd18922f4_lab,Haricots noirs,Black beans
+b7938b5c22e00462e8e0b4eda4423545_lab,Haricots rouges,Red beans
+cbe874e634b5e1bc9a488a1ab28a0a97_lab,Haricots verts,Green beans
+2ab739dd06f32e1ecc421a68e0819a50_lab,Lentilles,Lentils
+85898a5dd30aa2f4a419dbe4df1b438e_lab,Lentilles corail,Coral lentils
+a8f2f03c3f915bdf08aee077870392bb_lab,Petits pois (attention pas petits pois carottes),Peas
+6b3ed046a51aa9cded91db8d2cf3245e_lab,Petits pois carottes,Peas and carrots
+c9593571eb1a43a467d2d977e2d7b3ba_lab,Pois chiches,Chickpeas
+dceeca563ef1b8d5d9f0ada3691caf62_lab,Pois gourmand,Snow peas
+bdc7645e04618dd9f14f06d96ab6967d_lab,Soja,Soy
+edc58e8c7d352778e0ac7f00f9c101bf_lab,Frites de patate douce,Sweet potatoe fries
+d5eeb639b18761a2ce96b7037585d895_lab,Frites,French Fries
+92837ea993277394e2ef3d8a273cc58b_lab,Galette de pomme de terre (hash brown),Potato pancake
+2d3e45305f49cd9c56eb650afd6ade17_lab,Patate douce (entière),Sweet potato
+93ad17bbaca5ff82826f5856732a2076_lab,Pommes Dauphine,Dauphine potatoes
+012c8bea2b52e33a1bc2a7082236897c_lab,Pommes de terre en robe des champs,Jacket potatoes
+cbd0771d31563c0f11b901bb65eae765_lab,Pommes de terre grenaille,Baked new potatoes
+731b7b6cdd91e01dc8c38a595f521998_lab,Pommes de terre sautées,Fried potatoes
+6429aa7d7712a27511bc0061567e79cd_lab,Pommes de terre vapeur,Steamed potatoes
+abd03064e740c65bb99c8f87c9320f42_lab,Pommes de terre Duchesse,Duchess potatoes
+f32f9bfac46d6bd1e18537fe2026dd3b_lab,Pommes de terre noisette,Round fried potatoes
+b1bebff6bb94c11ebc38ab25e218c009_lab,Potatoes (type Mac Donalds),Potatoes
+3575f231560f30e64a36a3e7edc5d9b6_lab,Poutine,Poutine
+6f69181e82095ba37f6b1d666ecf4730_lab,Purée de pommes de terre,Mashed potatoes
+b12d27e123bbd4a6084ff89be71abacf_lab,Betteraves (coupées en dés ou en lamelles),Beetroot
+771ab423ce6b94185f9ecdd73bc9d332_lab,Betteraves (entière),Beetroot whole
+9350eb92377d496ef07cc407c3141767_lab,Carottes crues d'apéritifs,Baby carrots
+2cfcd91e33bad987c3d2fb9a4d898316_lab,Carottes (cuites en rondelles),Carrots
+c6510bad30d48773f89e6b6b398872c2_lab,Carottes rapées,Grated carrots
+62092b5d553bbf30852e32a8e16e2d3c_lab,Céléri-rave cuit,Cooked celeriac
+ac1b30e07d8c72a80903db4b65de910a_lab,Navet,Turnip
+33e3b9e028cea7b81192872dd747ea61_lab,Purée de carottes,Mashed carrots
+2d10f1c4b6ae3974475595a6936443e5_lab,Radis rose,Red raddish
+5d0a1ee72bc60ecebdb7b9c2b3d1a000_lab,Salsifis,Salsify
+1bd8525e66ab60ec33e07274869d4ed3_lab,Topinambour,Jerusalem artichoke
+3b822bb6847fc4283def39446d726382_lab,Barquette de beurre (l'emballage plastique),Butter
+d7cb4a01ca38dd82721bd97abda77355_lab,Beurre (si pas sur une tartine),Butter
+2c2d9ff46f418d7d181405a34330fef4_lab,Huile,Oil
+e9a6a68a432dd7e1467fb8d6521b1469_lab,Margarine (si pas sur une tartine),Margarine
+6473b9243d1b1d9fde12f0ef56832255_lab,Saindoux,Lard
+e1f4db7c41792b35b0acb4bd4b64d564_lab,Blanc d'oeuf,Egg whites
+2f536c27bcb1497bdbdef3b1909dc76e_lab,Huevos rancheros,Huevos rancheros
+35ce626be2faffc66e705bf850a7bd6b_lab,Jaune d'oeuf,Egg yolk
+7508cae688d67b65351c7c402078bbf4_lab,Oeuf à la coque,Soft-boiled egg
+36f31a693c70279fe550f465d3919089_lab,Oeuf au plat,Fried egg
+ea4f989bee0b39990afc1e4e7fa030d0_lab,Oeuf entier avec sa coquille,Egg with shell
+70cef4dc8c36def841fc757dcabfe84f_lab,Oeuf dur,Boiled egg
+7c4b312b174d07ced20cbe6ca6631b20_lab,Oeuf poché,Poached egg
+52cd5370f8a3be837c4207c4110f41ef_lab,Oeufs bénédicte,Eggs benedict
+293e439c928beffc1651419877d5367d_lab,Oeufs brouillés,Scrambled eggs
+1a19df047b8ecb425a1e24fca5b19a12_lab,Oeufs mimosa,Deviled eggs
+eba732655fc2dc405330e39d9ac64a55_lab,Omelette aux champignons,Omelet with mushrooms
+f7a88f4f54173e677aaadb7ad1bcc6d1_lab,Omelette aux fines herbes,Omelet with herbs
+beeba4046bff98a16a6dc6e1f259ba5c_lab,Omelette aux lardons,Omelet with bacon
+8a022f6cc8a9632a313ef7fe8baaf440_lab,Omelette nature,Plain omelet
+9b173701e7f489098d6622b7cb43194a_lab,Tortillas (omelette de pomme de terre espagnole),Tortillas
+998eca6fd4ce869c312fc76568611402_lab,Baguette (morceau de baguette sans rien dessus pas de tartine ni sandwich),Baguette
+b1aea1e822cc0d9ab71b011277d6641c_lab,Bruschetta,Bruschetta
+b801ed7e7b5393b8dda37105d3d15944_lab,Cracotte (sans rien dessus),Cracotte
+874f060cbb591bbaaf55001d8daaeb7c_lab,Pain à l'ail,Garlic bread
+35401b5de8cb016ca5cfd56148eec9bd_lab,Pain au lait,Bun
+15e8a42d5208a0018c3bfcdd57833e0b_lab,Pain aux olives,Bread with olive
+f01a3b2c85e443ce2e9de67be4191181_lab,Tranche de Pain complet,Wholewheat bread
+101682921611609356494ef392320087_lab,Tranche de Pain de campagne,Country bread
+e3d58af96c877274db401ceaedca5124_lab,Pain de mie complet (sans rien dessus),Wholewheat sandwich bread
+89215e0685876f2a01e280daaa0b26f0_lab,Pain de mie nature (sans rien dessus),Plain sandwich bread
+e3d775a8b56f8aa2cfb8cddfeca2fc44_lab,Tranche de Pain de seigle,Rye bread
+245f9d1c0e093aee08a0fde645991574_lab,Tranche de Pain grillé (sans rien dessus),Toasted bread
+396b989d73dbcb84ffefea62efb9c8f6_lab,Galette de mais pour burritos,Corn pancake
+3e22798d01304adacf493fb3ecad6030_lab,Galette de mais pour tacos,Corn shell
+367c09abef997abe531acdd23eeeabea_lab,Biscotte (sans rien dessus),Rusk
+7582fa31a363809d9eaf8c31000db697_lab,Blini (sans rien dessus),Wheat Pancakes
+b84ecf5b28d880f4bbc14421060e5135_lab,Croûtons,Croutons
+d42368535ab61e87880b0045b7db523a_lab,Galette de riz soufflé,Puffed rice cake
+478b53c555accc05c894fd44945b8184_lab,Gressins,Breadstick
+7f96fb69f62bf4235547bae8f11b5674_lab,Krisprolls (sans rien dessus),Krisprolls
+fe306babde7ba3e87d1966eadf1a9891_lab,Pain azyme,Flat Bread
+98dfce4c7e8c54cc82739d7e0a4c470c_lab,Pita,Pita
+e8f552b0a7ddac574a64c247f15a3402_lab,Tartine au rillettes de poisson,Meat pâté
+5b213af1332ad04f7c1327741c4e3446_lab,Tartine avec du gruyère (ou comte etc),Toast cheese
+17080524ada8818b1d4046f9f47ea7c8_lab,Tartine avec du Philladelphia (ou saint moret),Toast cream cheese
+4382b7ab54b3024a8ad4e85d20f55432_lab,Tartine fromage tomate jambon,Toast Hawai'i
+e33a3d8fdde216b9ce12baa6bcbdc92b_lab,Tartine salée (tous types),Toast with cheese (toppings)
+e12a3bdcb4b18be54d1004769361d08d_lab,Toast à l'avocat,Avocado toast
+2762f97c015b54ceac3ee160d1cb323e_lab,Gnocchi,Gnocchi
+216dc8787428b847d6b95349617ee9c4_lab,Nouilles chinoises,Chinese noodles
+dc2bf7a30d928df24e19acae178a922a_lab,Pâtes (tous types sans sauce),Pasta
+045d9dda7801cea0b09a879c065ff71b_lab,Pâtes à la bolognaise (tous types de pâtes),Pasta bolognese
+4a4e1d49fb47deae8d45cefd9df24e5a_lab,Pâtes à la carbonara (tous types de pâtes),Carbonara pasta
+8098a94195a1c1da41010b8667adf67f_lab,Pâtes au pesto (tous type de pâtes),Pesto pasta
+27fb4e30164f6082f048b949ccaa5fb5_lab,Polenta,Polenta
+644d2ba7eaa5c889b7cf4ba23b6ad053_lab,Raviolis au fromage (sans sauce tomate),Cheese ravioli
+5816e75b36aa2708f126fe22abeda6ed_lab,Raviolis sauce tomate,Ravioli with tomato sauce
+a9597f67a6c751162a84bbadec503b13_lab,Semoule,Cream of Wheat
+1bbc5567ff38d487fe2c8b961d0c8952_lab,Couscous royal (le plat complet),Royal couscous
+dc73092b866ef84f0469222a969983ee_lab,Pad thaï,Pad thaï
+61be9b45c5922dc51fb4c534acc08725_lab,Pâtes au saumon (tous type de pâtes),Pasta with salmon
+40d7e5ff13d3ecdf75bebc1930ef3714_lab,Cake aux olives,Olive cake
+0f2f8666c551051fbd01ded6a653750b_lab,Friand à la viande,Meatroll
+34e47f81f1fd62886a39f1fd30dc19f9_lab,Gougère au fromage,Cheese gougère
+36f6bbf7258f04825d67c2e63f61c599_lab,Soufflé au fromage,Cheese soufflé
+1e359a43de81a7e1009445738746a2f7_lab,Crêpe béchamel fourrée,Crepe filled with bechamel
+8d4b20945a888eb4c36fa1a4a6a0b65e_lab,Flammenkueche (entière),Flammenkueche
+8d4b20945a888eb4c36fa1a4a6a0b65x_lab,Part de Flammenkueche,Tarte flambée
+a72afe8134cc375a54bfe9c47c0ff4b1_lab,Part de quiche aux légumes,Quiche w. vegetables
+eff735c8e6a7b4b7fd8aaf09ecc05322_lab,Part de quiche saumon épinard,Quiche salmon-sorrel
+a46c59365152fee107ea6f4d2392138b_lab,Pâte brisée,Dough
+4e2da86105869fc35c947c1b467a7f96_lab,Part de quiche provençale à la tomate,Quiche provence w. tomato
+df3e511626ffc7c1cf19f4bb89f0283f_lab,Mini quiche aux légumes (individuelle),Quiche w. vegetables
+ac993af6ca7f54e7d6f4fe7f4500f0c1_lab,Quiche aux légumes entières,Quiche w. vegetables
+348fe8652a264437f91e509fc1865263_lab,Part de quiche lorraine,Quiche lorraine
+81a8ff06d3926eef05f2b72423570be7_lab,Mini quiche lorraine,Quiche lorraine
+ff09b2cb1a0955f9121024ef4d52c34c_lab,Quiche lorraine entière,Quiche lorraine
+36bbcb3518f1c92c7bb52441d0266950_lab,Part de tarte au thon,Tuna pie
+3286f3e90a207ca63e7e09b9b73c5844_lab,Tourte à la viande,Meat pie
+368f5efec6d78cab2c5ae2da2c8e86c8_lab,Bibimbab,Bibimbab
+f8dc74a9e883a52275998cd1f96afdb7_lab,Bossam,Bossam
+f668cc4b6011b16a8ca118944f54775c_lab,Budae jigae,Budae jigae
+1ecdf7ee72d1af3ff30cfe2eb10730a9_lab,Doenjang jjigae,Doenjang jjigae
+4ed0e6489c12ef527b1eee08f8e3ca71_lab,Galbi,Galbi
+8d3332482bbd861cf3ea6fed11e06611_lab,Gamjatang,Gamjatang
+d614fcf9ac6658c6d039a73f105dc7e9_lab,Gim,Gim
+fe9d275932c7052c0722af9af7fdf12f_lab,Gimbap,Gimbap
+5c5c4948539dd68db954092b99b82018_lab,Haemul pajeon,Haemul pajeon
+af1aa01eda5eb11c9a594783b4dd05b3_lab,Japchae,Japchae
+2ae82add310de69cd710c40c94107667_lab,Jjajangmyeon,Jjajangmyeon
+e0663cca32a2060804f2a1c2cc6fed66_lab,Kimchi,Kimchi
+193c109911b91df864a07d2976295c1f_lab,Kimchi jjigae,Kimchi jjigae
+d60a7170b9f0643851ec36fb6b478c72_lab,Mandu,Mandu
+d10f2c06a3853660fdf2f8be5164e1b2_lab,Samgyeopsal,Samgyeopsal
+bd7f4cdaa1022357a104274ff7dc5b3d_lab,Seolleongtang,Seolleongtang
+f1cf417073c761ab001876c63e58da58_lab,Tteokbokki,Tteokbokki
+19d0e19328c44282766337e0774eb124_lab,Yukgaejang,Yukgaejang
+8bf2fab4399b762635e887ec0fe7441a_lab,Anchois,Anchovies
+110d6e6855caecae970195ecd1e9b872_lab,Anguille,Eel
+9ef40fefb480e1e5eaeb6a0c66c5c64d_lab,Poisson blanc vapeur (type cabillaud à la vapeur),White fish
+634e0b3c08fbb4487fcedff5692f25cb_lab,Poisson grillé,Grilled fish
+fc924d99173056d2065190ce7a326457_lab,Caviar,Caviar
+f53eb768e63535fa5a5114dd059e625f_lab,Cuisse de grenouille,Frog legs
+fc6acfa9484a774a0b7896b6c3455cde_lab,Haddock,Smoked haddock
+6e9895bd68d13c217fb9b60e5cb17384_lab,Hareng fumé,Smoked herring
+d1c9af637b6149bf6c17ffdb2321fb4e_lab,Lotte,Monkfish
+da2e27a65c35c75f9a295663bda838f4_lab,Maquereau,Mackerel
+4f97c612bdf3497d3167abc358feabe0_lab,Œufs de lompe,Tobiko-fish roe
+69121393d099617d74cc153e676480d0_lab,Raie,Rays
+822c34b4b624ff74b11d40ce14d34fe0_lab,Rouget,Red Mullet
+1e11decf7360ce6e28c02227a4648158_lab,Sardine grillée,Grilled sardine
+92f06932cd8f4198e1e9046bc9afbed3_lab,Sardines à l'huile,Sardine in oil
+fb9547240ac8bb62713892d7e83e7ce2_lab,Sardines sauce tomate,Sardine tomato sauce
+13475bf6da319ac93e43c47ada8c8974_lab,Saumon fumé,Smoked salmon
+2f7f2f3736c47ab149c2f4e85618038c_lab,Saumon mariné,Marinated salmon
+2f0267d06e5ef3fa6e6cf39081933405_lab,Pavé de saumon,Steamed salmon
+4ff90f259c400509acf0bf03c122d512_lab,Sole meunière,Sole meuniere
+cbf828ba0fbcdf32addbadec29c7cff3_lab,Surimi en batonnets,Crab Sticks
+5799372ab7e1928f90f60775c89fbddc_lab,Ceviche,Ceviche
+6f2c9dc0a0e709e9dfbc0eb25493a888_lab,Tartare de daurade,Sea bream tartar
+bcd9399858d9408c4f42b02705a058e3_lab,Tartare de thon,Tuna tartar
+7f01f2cbb94f41889d3c81b6a19c3cff_lab,Thon (steak de thon),Tuna
+1a06bdf5d9076d73889f1d953716d438_lab,Thon cru,Raw Tuna
+10a87eb8350d3f52fb62deced6350ddf_lab,Thon en boite,Canned tuna
+b601e3cab6d7a4d906ade4effa434765_lab,Bouchée à la reine,Puff Pastry
+a1c3d945d8f4a866351d98e5f0bc2a34_lab,Carpaccio de saumon,Salmon carpaccio
+f8129726b842ee730cee8f36bbc8e233_lab,Lobster roll,Lobster roll
+ab1ba02b1ca48c062852221f9b60351e_lab,Rillettes de poisson,Fish rillettes
+8ca09fff1f2f3406e6c9119dce8dcb4f_lab,Sauce à la crème aux palourdes,Cream sauce with clams
+dddcf6fc89b6388c8dd4a7d5e1957fee_lab,Tarama,Taramasalata
+286fa79ad4001c608c4d6261628e23ad_lab,Tartare de saumon,Salmon tartar
+7815f6d974cb687e86a57377f0c773a3_lab,Terrine de poisson,Fish terrine
+01567f1c51d2d54885965de481a83b8e_lab,Yaourt à boire (type Actimel),Actimel
+5699956fbb94698a329b33dee387d974_lab,Boisson chocolatée froide (en brique),Cold Chocolate drink
+b46299864fc69116ccafe3aaa2507d8a_lab,Crème chantilly,Whipped cream
+d97c49fe636bb8a3153f2069e0dffcc5_lab,Crème de soja,Soy cream
+a819bc76c578db1d5a5dbb015811ff57_lab,Crème fraîche,Double cream
+32526751624005fe64a3529f2ad8285a_lab,Lait concentré,Condensed milk
+b37b6b4b5f69b9350a11221ec5a42e5b_lab,Verre de Lait,Milk
+ac2777b75705a1234d788b94972b9798_lab,Bouteille de Yop,Yop
+01c5919ef14284e3bd9716ab57e7aa7f_lab,Bleu (ou Roquefort),Blue cheese
+a21e7ed28fe6b0a5f22ea50d6461748e_lab,Boursin,Boursin
+a30b6799e5eec4932011e7609b0e3180_lab,Burrata,Burrata
+fff9bde2bc44c8bbfc9b75acd1383568_lab,Camembert,Camembert
+d63328c997f47adae0666b8ac3f054b8_lab,Chèvre bûche (en tranche),Goat's Cheese
+ba498198099864562c8f1fc99275c3e9_lab,Crottin de chèvre,Goat Cheese
+d56f1b590ce83a1cdf7f2d4ef8963972_lab,Gouda,Gouda
+699666490d05a872e4dd59a8844f5f48_lab,Faisselle,Cottage cheese
+d2441bfdcf25a3ecae9980683bd28403_lab,Feta,Feta
+28c52daef82679ca596f851e63ac692e_lab,Fondue savoyarde (le morceau de pain sur le pic),Cheese fondue
+a90796cd5671670b02cb8f5c16d92ee0_lab,Fondue savoyarde (la cocotte),Cheese fondue
+08ce8bd10846606371dddbc567814a80_lab,Fromage blanc,Soft white cheese
+d6acfba4498d60c98c8e4fdf6c4b6658_lab,Fromage frais,Fresh cheese
+34895ce2349401a8f6a81032cd94ec43_lab,Fromage rapé,Grated cheese
+5468c1b3b6b192a299f959a82aec6e14_lab,Gruyère (ou comté),Gruyère
+7bc19d3cd18bb26e56d29ed48ddebc41_lab,La vache qui rit,La vache qui rit
+606a947efa6d054e977296b5feb39b0b_lab,Livarot,Livarot
+a6ba638d007f156a5fa44824c0314ec0_lab,Lou Perac (la brique),Lou Perac
+1c38a16e435ae33cc4f7b7f6f7a59ec5_lab,Morbier,Morbier
+4adb2fbf2953579d2622df4571417ad9_lab,Mozzarella,Mozzarella
+2f0979e79e6196d38de4ba2d4037d780_lab,Port-Salut,Port-Salut
+0f18ebd18cd0e44934a11590df4f4756_lab,Reblochon,Reblochon
+4ed20cd861497b435686a9417f94b3fa_lab,Ricotta,Ricotta
+6c0014d87a9060754a05e26a9d416749_lab,Rocamadour,Rocamadour
+487cb41431e50f3ed30292fc7318c336_lab,Saint-Môret,Saint-Môret
+42a70874c0d4c249898da9403c42698b_lab,Toast au chèvre,Goat cheese toast
+6d5ec3ef5945fcc294686ecda741af9d_lab,Tomme,Tomme
+180a03ee7d014afb80847b08a37c6d29_lab,Vacherin Mont d'Or,Swiss Vacherin cheese
+2f0074f1110e5acef211a8c5548dbc81_lab,Valençay,Valençay
+2a6c9111c607dadfb53a9fc0fe2dc36b_lab,Creme dessert au chocolat (type Mont blanc),Chocolate dessert cream
+f28048939811b0a6f945688d266ca6e8_lab,Creme dessert à la vanille (type Mont blanc),Vanilla dessert cream
+110efecc66d540fde52bc766eee8822e_lab,Danette chocolat (en pot),Danette chocolate flavoured
+72730a8ad3c191250dcb59428e4fa77c_lab,Danette vanille (en pot),Danette vanilla flavoured
+3c90e248c66be81cfdd3df3168c4715f_lab,Yaourt (tous type en pot en plastique ou verre),Yogurt
+4b5e952634564067d1dde2822c51f0e4_lab,Blé (type ebly),Wheat
+29ab440e243d56aef8b899183af13781_lab,Boulgour,Bulgur
+d108c65ede7afa9c2b190a11149a96fa_lab,Epeautre,hulled wheat
+728f17a5abf4cffa1ff52d2d6413904a_lab,Quinoa,Quinoa
+cde9fe0aa28e3cbd67b8a44ab17caeb4_lab,Riz blanc,White rice
+0016713bddf1398a3d7e19f40bcbfa15_lab,Riz complet,Brown rice
+3b4bf68c147c42091a62a3783a23a383_lab,Riz sauvage,Wild rice
+68a82bc1ce3de80934f9c422ffbb56c7_lab,Son d'avoine,Oat bran
+5b9c77cffd8cd48f5daa1ab1a8ec352c_lab,Jambalaya (plat complet),Jambalaya
+f781487fc03062228c201c5914950a39_lab,Paella (plat complet),Paella
+d4112a5fd08b37e17f976eeb96fa8e41_lab,Risotto (tous types),Risotto
+931598d95c9949c06dba67e4e8225dc8_lab,Riz cantonnais,Cantonese rice
+f74403f54dc47a84ac169d3d528c387c_lab,Salade de riz,Rice salad
+223ff9fb8265128a85249b42b5df2038_lab,Céléri-rave en salade,Celery root salad
+ba0c031e17f8ff2cb9b093288f64dc54_lab,Chicorée rouge,Red chicory
+4840baadf214d633c9e4d399ebd94a8e_lab,Endives en salade,Endive salad
+ed32bb23be52d43816e8ae784ada5936_lab,Épinards en salade,Spinach salad
+8e847a1804895b6120638e359a6cbcd3_lab,Fenouil en salade,Fennel salad
+9c9739d26e0b1f0b3df7126e995a4154_lab,Mâche,Lamb's lettuce
+eaf7095cb86c9a42003a2d869a800005_lab,Roquette,Roquette
+dd739861c26d96c892ad5bf4b4b50ddc_lab,Salade frisée,Green salad Curly
+21b42213b9d4f9578b6b39ca3c705003_lab,"Salade verte (type scarolle mais pas mâche, frisée ou roquette)",Green salad
+4e53845fef9c98ef688dfd70f044f079_lab,Céleri rémoulade,Remoulade celery
+4c71f797aaead3a7c6ea5f025e81a06e_lab,Champignons à la grecque,Greek-style mushrooms
+8e147a47fc625b48436fd0f1b1204e10_lab,Pâtes aux légumes (tous type de pâtes),Vegetable pasta
+75add796e04474a81bccdb126ec071f9_lab,Salade d'algues,Seaweed
+897ff321c8efc6df8ca1248041cd3306_lab,Salade de lentilles,Lentil salad
+7821257ef1bb88aded89d88b972cafed_lab,Salade piémontaise,French Potatoe Salad
+7e860f5b71cb20f0dd74c69a78d9b3c0_lab,Taboulé oriental (avec base semoule),Tabbouleh
+83ff9d037da311682247c9fc1fba5ff6_lab,Taboulé libanais (avec base persil),Lebaneese tabbouleh
+c262e42a627986076c07c4a194946a93_lab,Tomate Mozzarella (Salade Caprese plat complet),Tomato Mozzarella
+86c3d0a1504420d4a3766af8ab0b4e2b_lab,Bagel (toutes garnitures),Bagel
+c0836158e302607934b66429ef7aaa1f_lab,Big mac,Big mac
+261fb6f4e032502f18ec10e4480c3651_lab,Chawarma,Shawarma
+443ae87a0550c948dbb1c33086d23450_lab,Croissant au jambon,Ham Croissant
+580907c26ae648bb6bd19289ff8ce03f_lab,Croque-madame (avec un oeuf dessus),Toastie
+2a0bb03884ff2074d4b414dc2499a63f_lab,Croque-monsieur,Toastie
+7aa99f13e44dd25f7de294bc71abe4ff_lab,Hamburger (sauf big mac),Hamburger
+e27f913955c70cb8e0f2ad659061fd0e_lab,Hot-dog,Hot-dog
+4f8ccd0f117b71878c43d4d3599fbbfc_lab,Kebab,Kebab
+ec2f4189c40dc778f11fd8222646b0c6_lab,Panini (tous types),Panini
+83caec1d0266f2d59fd9e04e1d18513e_lab,Wrap (tous types de garnitures),Wrap
+e2dcd7029ac2ae9ca99f1d27676b33e4_lab,Câpres,Capers
+9156a4eedc1cd0c04c55d78d8b50c980_lab,Cornichons,Pickles
+0091dc4bb8c8fc42c2eb2464cac15a73_lab,Guacamole,Guacamole
+81e20b42664863a5757aa4a205903053_lab,Harissa (à part),Harissa
+3ae0c824b373552c024425af287557a9_lab,Houmous,Hummus
+24c60f771fec1643b3a35a9b5bb81b0a_lab,Ketchup (à part),Ketchup
+d3f1c245c6a1974636c638b5e8c58d58_lab,Mayonnaise (à part),Mayonnaise
+0bd4c36c88d63f30cbd156b50464590b_lab,Moutarde (à part),Mustard
+240ccf461a419c20ff6bec4a3fe4bf2f_lab,Moutarde à l'ancienne (à part),Mustard
+714d1312572708f550f8eee26fbaf2b7_lab,Olives noires,Black olives
+fdb9388f2f2a4fbc9f8edde83b338201_lab,Olives vertes,Green olives
+9ff415403bbe4785776a7b185a86e282_lab,Pesto (à part),Pesto
+487e4792f13b3e5d51ba4a52d91a87a5_lab,Sauce carbonara,Carbonara sauce
+cd128932b97ef73671e3b624a181bec0_lab,Sauce à la crème (à part),Cream sauce
+840119ef870d1f5c402b9df665b15c68_lab,Sauce aigre douce (à part),Sweet and sour sauce
+40a9299d9f3e1f3fb63a954ee92ee640_lab,Sauce au beurre (à part),Butter sauce
+76b494ea1deee8b30631d275b54952a5_lab,Sauce au curry (à part),Curry sauce
+624545bed6e2bb8b52f1d5c28906a198_lab,Sauce au poivre (à part),Pepper corn sauce
+e64ac668cf81bd6228cab7898ee2b15c_lab,Sauce au vin rouge (à part),Red wine sauce
+e43f970fbfeda6a8029916311cce9d5e_lab,Sauce aux champignons (à part),Mushrooms sauce
+35956540fddb982fec453e05ce6e7702_lab,Sauce barbecue (à part),Barbecue sauce
+c7d238874ba23f5bf857f0f8571be77e_lab,Sauce béarnaise (à part),Sauce Béarnaise
+e97f3835652b0116155e399c2a7e8669_lab,Sauce cocktail (à part),Cocktail sauce
+8c2a6d9050d1eccb0c0b907924ea4374_lab,Sauce d'huître (à part),Oyster sauce
+ee0ad27c3a02239da387134fcaadb490_lab,Sauce de soja (à part),Soy sauce
+2ad8917b2158edf05352fd33f6e4c80d_lab,Sauce hollandaise (à part),Hollandaise sauce
+6f4424dc72c093c5a3ca02f4a5348c1f_lab,Sauce Ranch (à part),Ranch sauce
+e54bade7ed0cfb8d4bd2de7932f931cb_lab,Sauce nem sucrée (à part),Sweet soy sauce
+a4abc986701f1759315bae54ba51198e_lab,Sauce tomate (à part),Tomato sauce
+15f63a249b40951cda6f39f3b8b48ace_lab,Sauce vinaigrette,Italian Dressing
+7e13d1a010c57c1f349dbce75b408762_lab,Tapenade,Tapenad
+9de66567ece99ca7265921bf54cc6b9f_lab,Tomates séchées,Dried tomatoes
+587d6e7a9b2329e80631c973052ba3ad_lab,Tzatziki,Tzatziki
+481fcac704c5857fb98405333f90c241_lab,Vinaigre,Vinegar
+5b9e420454fd3a39c5fb07556d76418b_lab,Wasabi,Wasabi
+be5025102665640523a595cc35d08d92_lab,Bouillabaisse (plat entier),Bouillabaisse
+85d131df465c6c35622d101c179c17d9_lab,Bouillon,Broth
+e1aa4f6c553fd01b4a90c36b667ea545_lab,Gaspacho,Gazpacho
+721a27012ad3723caf189396dacc1e27_lab,Pho,Pho
+fdcb09186db0e55feca798ca1550d339_lab,Soupe à l'oignon,French onion soup
+7381c4a68441e0a72ab8c4783b5c1068_lab,Soupe à la tomate,Tomato soup
+8e4a1e93c9fbe06008f6b948b4b3005b_lab,Soupe aux champignons,Mushrooms soup
+2c04ee229199c849146bedf4ef797818_lab,Soupe aux carottes,Carrot soup
+aa584ea08c6980d226524cd1d48b2e2c_lab,Soupe au pistou,Pistou soup
+a7ea752ff375c6fb3c1588b1c3785eb4_lab,Soupe de légumes,Vegetable soup
+c47d170600ae0a472ad031ac8756f87b_lab,Soupe aux lentilles,Lentils soup
+5351e5179a39648567c8e2b3bed78141_lab,Soupe aux poireaux et pommes de terre,Leek and potato soup
+c2463ce6b5cb71467f81a12d1832ddda_lab,Soupe de poissons,Fish soup
+a33319658744b073cb387fe7136ed81d_lab,Soupe minestrone,Minestrone soup
+8c63f3f1f469c3d869abe7cdfe5b5c02_lab,Soupe miso,Miso soup
+618cb62517cf4ee2f225829c6490d674_lab,Confiture d'abricot (pas sur une tartine),Apricot jam (not on a toast)
+edaf1de07e9947908b3fbd89b2b5e427_lab,Confiture d'orange (pas sur une tartine),Orange jam (not on a toast)
+8438ef3436447f0efd307c48db4d258f_lab,Confiture de cerises (pas sur une tartine),Cherry jam (not on a toast)
+ab04bc873792fcad5d75ed7a19806108_lab,Confiture de fraise (pas sur une tartine),Strawberry jam (not on a toast)
+932049ad51dda22397cecfd63802321c_lab,Confiture de framboises (pas sur une tartine),Raspberry jam (not on a toast)
+04ebd44a59324de55d9f276e914b51c4_lab,Confiture de myrtilles (pas sur une tartine),Blueberry jam (not on a toast)
+88d8c996be01fe1ace5287bfd15cabb1_lab,Confiture de prunes (pas sur une tartine),Plum jam (not on a toast)
+e02ce53a16a4d53df302e92068845d5e_lab,Coulis de fruits rouges,Fruit Dessert Sauce
+0b4f8070598dd99b6b59060e5ee74917_lab,Miel (pas sur une tartine),Honey
+379245e889aabf0965c0630a6b8142e8_lab,Pot de confiture,Jam in container
+ba3e92309b48b361218110b0957fe196_lab,Sirop d'érable,Maple syrup
+410f2f5d30b57f16b08574a3aa8fc51a_lab,Sucre blanc,White sugar
+11737e41a7eabafad097e9985dbbc3f3_lab,Sucre roux,Brown sugar
+06c58438b291c9c96587aca78419bb3c_lab,Aiguillettes de poulet,Chicken filet
+fe0a4aaf6602233d8bff46dd0785b018_lab,Canard,Duck
+2f91c46d066bfd7630a1e5839f214799_lab,Cuisse de canard,Duck thigh
+e87e83ee4ae9e2343e3df102eec3693a_lab,Cuisse de poulet,Chicken thigh
+86ac74d163d6f959b8542d8661240f4b_lab,"Escalope (de veau, de poulet)",Cutlet
+db74df792e10a5de5468de7cd43eccb3_lab,Faisan,Pheasant
+dddc6b1c1596fca0eb26059684fcf5b4_lab,Magret de canard,Duck Breast
+b5bd9c19202a8658cb232c3bf29e8109_lab,Pigeon,Pigeon
+28d43911f786029f49ab839331a7a034_lab,Poulet rôti (poulet entier),Roast chicken
+703e7b3b4e2a07715552e466e0d231bd_lab,Wings de poulet,Wings
+301706eb0177c2c6bcdc1d12908bf10e_lab,Steak de boeuf (tous types),Steak
+0b590d0234719d57b682cb29d369e504_lab,Boeuf sauté,Sauteed beef
+5b1684386cb82d3204f196b17c2e9b55_lab,Cervelle,Brains
+a7d3d143074c4577868456589459f61d_lab,Cœur,Heart
+bbc97c0464079f449bd94f212ea14a8d_lab,Côte de porc,Pork chops
+d1d5345c39b5c0350aa636c817d064ad_lab,Côte de veau,Veal chop
+fbbfc21ea60ea732ff10de9ec30e6297_lab,Côtelette d'agneau grillée,Grilled lamb chop
+4b858509d18bd8561bc65665fcbd38ba_lab,Filet de boeuf en croûte,Beef Wellington
+7f80382cf6d07c59ed144f39144fc256_lab,Filet mignon de porc,Roast
+beb2640b9227b2fe1307b2f77195a5f7_lab,Foie (de veau),Liver
+91af00e677f07c160916db7940e88493_lab,Gésiers,Gizzards
+88489b454d2af2fae260acf893fdf22b_lab,Gigot d'agneau (en tranche),Leg of lamb
+0a3b2116e582530c98c0dca48948f1c4_lab,Jarret de porc,Pork knuckle
+af3a59db6039d630f5e1ae8293ab88ce_lab,Langue (de boeuf),Tongue
+58447c9dbf08c2eddd7c6243a322eeef_lab,Lapin,Rabbit
+3775cd10e07727037d6dc4269a305212_lab,Pain de viande,Meat Loaf
+29eed6640fcc7a1176e091b9700a10bc_lab,Pastrami,Pastrami
+253819d873762627670e85542e11c17d_lab,Poitrine de porc,Breast
+5ab7f9d53ab7d92dc03b91c9eeae9076_lab,Ris de veau,Calf sweatbread
+dc17887bcfef48a1b2b7548de1dc1751_lab,Rognons,Veal kidneys
+6986cd1a233b6cc26aa94c9fa27775f8_lab,Rosbif,Roast beef
+6a833c0e6784314b868f01bcc1628e96_lab,Roti de porc,Roast pork
+b442fcc386eb7f9fd7842aa4b4a81e23_lab,Steak haché,Beef burger
+83145cc81cc2c2c25894693905c9be53_lab,Travers de porc (ribs),Ribs
+e3d40ccf2e184302211292e3d1b51a80_lab,Viande hachée (en vrac),Minced meat
+920da597cbeeb36f527b1e55c18044d0_lab,Andouille crue (en tranches),Raw andouille
+23f880dfb1f73b8857f030b09354914d_lab,Andouillette (cuite entière),Sausage
+b2a6324865810a560b9de3dea4da35c0_lab,Bacon,Bacon
+56583656246065ffb96e23674a21e235_lab,Bacon canadien (en tranche ronde),Canadian bacon
+6d3f8948dc31ff4fb9d41acde59b7138_lab,Blanc de dinde (jambon de dinde),Turkey breast
+383f2e7442615cdcb0535a0f280a66ad_lab,Boudin blanc (cuit entier),White pudding
+ee92b44b244654e91706940e4914f01d_lab,Boudin noir (cuit entier),Black pudding
+968452d20df64dbbac84b98ca5f0831d_lab,Bresaola,Bresaola
+ef045375980986fb8cd2cb244511083c_lab,Cachir (en tranche),Cachir
+a445578703e2d8ecefd9c6097aaab7a3_lab,Cervelas,Saveloy
+bb528f3065f4e6246970c4b228dd3526_lab,Chipolata,Chipolata
+b53a196a782208102900a201e47f3049_lab,Chorizo (en tranche),Chorizo
+0ea6da5ce62bb01b480be8315fcc8955_lab,Confit de canard,Confit duck
+2e495d338d57b7f18cd5319e068d49e8_lab,Coppa (en tranche),Coppa
+4ff1f31a21ecb78eca3e8ae69b0deba4_lab,Foie gras,Foie gras
+ca9119f36ce8f9dd8100c7b17e1b2dab_lab,Fricadelle,Fricadelle
+1d4b149fc4feaa83a7bf9379402cd396_lab,Jambon blanc,Cooked ham
+a648fc977fb863f5e23aed79eb7bf318_lab,Jambon cru,Raw ham
+cbd2d276a54cbc741be20c6dbfd2c75a_lab,Jambonneau,Ham shank
+ae771f13cc31ef69f2b4141a51757c8f_lab,Knacki,Knacki
+e14a2ed2029fa3ff3769f16676a11f8d_lab,Lardon,Bacon
+307dd0cd0132850a7748d5e932c03e8b_lab,Merguez,Merguez
+0cc03086f86da32ac5c5cd3ce0f6d7d7_lab,Mortadelle (en tranche),Bologna
+e589be866efdbee63f613e67fcc283c3_lab,Mousse de foie,Liver paté
+6f38762fdead117f99a964b002808520_lab,Museau de porc,Pig snout
+ddb00b62237483f1a1faa8aa881d39ce_lab,Pâté de campagne,Country Pâté
+ca70139f68a662bd7a74c82be9e4310b_lab,Pâté en croûte,Meat pie
+d5644cd031053268d551f8d9747d6d95_lab,Quenelle,Quenelle
+18d5d23fede4433ba2d0135d2a930825_lab,Rillettes,Rillettes
+f859d58b6d129e835d3f8eacb4ece706_lab,Rosette (en tranche),Lyon rosette
+3ec4168709e1af5cdf9f8fd66dec6f29_lab,Salami (en tranche),Salami
+eaedd1d3bf5f301f05ea4a2b789d9d28_lab,Saucisse cocktail,Sausage
+0eb13d069b469cbc45a5e8b1e67f7bc7_lab,Saucisse de Morteau,Morteau sausage
+0a7a8e3b51299a17758175cc74592f46_lab,Saucisson à l'ail (en tranche),Garlic salami
+c8c3f0fcc7a923f7d215f02afd70feac_lab,Saucisson sec (en tranche),Dry salami
+7f471164ab88ffb73b5eaa14ae9ed6a0_lab,Viande de Grison,Grisons meat
+c2200193c76a3d395c982343081f992b_lab,Blanquette de veau,Veal blanquette
+2dd7368f354eb4c93d6502424741186e_lab,Boeuf bourguignon,Beef bourguignon
+16e8d55e29f5937ec0d39c4608ebbc1f_lab,Boulettes de bœuf,Beef Meatballs
+e212f82e9a63816d604d0b9da2344226_lab,Boulettes de poulet,Chicken meatballs
+f94563beeb410e5cfd3ace505801db58_lab,Brochette de boeuf,Beef brochette
+da444ca6d8534b0dafca648d0e273209_lab,Brochette de volaille,Poultry Brochette
+a068b48edcefa86cf889f073763717f5_lab,Carpaccio de boeuf,Beef carpaccio
+2c6e6390a007320c065c80a5308ac53b_lab,Chili con carne (sans le riz),Chili con carne
+d8b6ea1fde8861d19163b529ad209751_lab,Coq au vin,Coq au Vin
+1ac1c5d4445c0b6c2f179676ff210977_lab,Escalope panée,Breadcrumbed cutlet
+330ca069ac0ac77152ba2810fc2744d7_lab,Navarin d'agneau,Lamb stew
+cb94abee1473453b760c9b357cacb407_lab,Osso buco,Osso Buco
+70ed2266fd2b8450c864be4b1fc5a609_lab,Paupiette,Paupiette
+15dcfb22d1b7f881fea4360fab4cc001_lab,Petit salé,Salt pork lentils
+d200d5b7737eb72d2ccaf78a40fa7042_lab,Pot-au-feu,Beef stew
+da1a0827e3898e332a200a5224f293c7_lab,Poulet à la crème,Creamy chicken
+8cdbf511b7ad2ceba712112fd6e2ec16_lab,Poulet basquaise,Chicken Basquaise with rice
+4c48e4f79d69dd5da345c9b55a855f91_lab,Poulet teriyaki,Teriyaki chicken
+4436beb1578e3380a0cf1b7ab1b2c783_lab,Saucisses aux lentilles (plat complet),Lentils sausage
+bb55005e9737b049c285980565bdd276_lab,Tajine (plat complet),Tajine
+cd24f8e30fea86e555789e030fb8f9d8_lab,Tartare de bœuf,Beef Tartar
+1d47f244801d2f1f7a3a6accd7a38be7_lab,Tripes,Tripe
+23e20eef000da713975bb43c2b4455a6_lab,Beignet (tous parfums),Doughnut
+018bd5827b42f5debb90fd618288553c_lab,Brioche en tranche,Brioche (sliced)
+a5e80c9d5d01aa2bd426a460c2dcc7c4_lab,Brioche inviduelle,Individual brioche
+d8300f97038862512a223ba5d20f3ef0_lab,Chausson aux pommes,Apple turnover
+0a8250c69a4e0a7dbe209a09635e7778_lab,Chouquette,Chouquette
+ec45e960aceb55ebf361ea56112a4ebe_lab,Croissant,Butter croissant
+7961f78e65b523a7e847037a867e968e_lab,Croissant aux amandes,Almond croissant
+b6229b86368df52ce69e1b8f08f50463_lab,Donut (tous types),Donut
+6315af6bf47a36315c77f5bfe1424d06_lab,Fougasse,Fougasse Bread (Provence)
+748594618a6cc320c5cf3a873705d03c_lab,Muffin tout chocolat,Chocolate muffin
+567ae16a910e9dcc3023bb81f2effcb0_lab,Muffin nature ou myrtilles,Plain muffin
+2789e2adecb5019afcefb448fa8387da_lab,Pain au chocolat,Pain au chocolat
+8b6dadc91f6d2d957b2d6c5cc91b65e1_lab,Pain aux raisins,Raisin bread
+c0b2cac1d3e772d2ffa295d535abb26a_lab,Pain viennois,Vienna bread
+7074b1a3a884d0985149c999b05a6a27_lab,Plié au chocolat,Chocolate bread
+background_lab,Arrière plan ( général),Background
+couvert_lab,Couverts,Cutlery
+main_lab,Main (humaine),Hand ( human)
+papieralu_lab,Papier Aluminium,Aluminium foil
+5cb1ae2bc4ff8ffa171f64144b3f5c5e_lab,Code barre (pris de très près),barcode
+34efbebd2a2f93464afd5ac20c983be4_lab,Emballage alimentaire divers (pris de près),packaging
+584dde6a81c94568941e4d77c7691005_lab,Visage,Face
+4b9c1ff56d384a2c9f1cae1fac8ea6ae_lab,Personne,Person
+a74fedf467d544a18826b6d7c2f1a19b_lab,Assiette,Plate
+f5f975ba042a4ce99e1570cd96d90dbe_lab,Fourchette,Fork
+e3db1fe014b749b6ad7e93e8b03ea5fc_lab,Couteau,Knife
+fa7aba1b2a5b4e5b943e6a72067ec94f_lab,Cuillière,Spoon
+5ac33645a6574a2e8a9fadc4b6fb22e9_lab,Serviette,Napkin
+cbba83b24a154049ae97ecbb9915885b_lab,Verre à pied,Wine glass
+bcddb1edb193427fb6141d84cf1cea1b_lab,Verre (verre),Glass
+00a80fe75c2a4e4d9601a1a222134c88_lab,Verre (plastique),Plastic cup
+080f431bf70e4ddd8aa1d664bfd5eda2_lab,Tasse (mug),Mug
+ab45fa98947647679d0fb798c7528c4e_lab,Bol,Bowl
+1c319b7529874404a709b6638351be5e_lab,Cannette,Can
+607c33938ffe4f03a630df9696c7225f_lab,Bouteille en plastique,Plastic bottle
+1289214e4c884fe8b0c7c95b99a04389_lab,Bouteille en verre,Glass bottle
+840f33a6614f4af2b32523ba9216b915_lab,Boîte en carton / plastique,Cardboard / Plastic box
+bc2dca38fd674bd1bb96976cd1e66e2d_lab,Divers,Miscellaneous
