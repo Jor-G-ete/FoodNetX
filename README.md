@@ -1,4 +1,4 @@
-# FoodVisor Challenge 1
+# FoodVisor Challenges
 
 [![](https://img.shields.io/pypi/v/FoodNetX.svg)]()
 [![](https://img.shields.io/pypi/pyversions/FoodNetX.svg)](https://pypi.org/project/FoodNetX/)
@@ -7,6 +7,8 @@
 [![](https://img.shields.io/github/last-commit/Jor-G-ete/FoodNetx)]()
 [![](https://img.shields.io/github/v/release/Jor-G-ete/FoodNetX)]()
 [![](https://img.shields.io/github/v/tag/Jor-G-ete/FoodNetx)]()
+
+** CHECK DEVELOP BRANCH FOR LATEST CHANGES AND UPGRADES**
 
 FoodNetx is a library created using the python package *NetworkX*. It creates a database based in graphs, in concrete a Directed graph, in which could occur cycles. The main idea is cover the challenge of Foodvisor ( [Challenge1](https://github.com/Foodvisor/coding-assignment) and [Challenge2](https://github.com/Foodvisor/home-assignment) ) but any other use is welcomed, please if it used reference this Github and its creator.
 
